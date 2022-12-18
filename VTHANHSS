@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:0,VTV1
 #EXTGRP:| VTV
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -33,6 +32,24 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0,VTV Cần Thơ
 #EXTGRP:| VTV
 https://livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,ANTV HD
+#EXTGRP:| VTV
+https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VNews
+#EXTGRP:| VTV
+https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
+#EXTINF:0,Nhân Dân TV
+#EXTGRP:| VTV
+https://api.vthanhtivi.pw/v1/getlink/vieon/nhan-dan-hd
+#EXTINF:0,Quốc Hội HD
+#EXTGRP:| VTV
+https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,QPVN HD
+#EXTGRP:| VTV
+https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VOVTV HD
+#EXTGRP:| VTV
+http://103.90.220.236/vovlive/tv1live.m3u8
 #EXTINF:0,SCTV1 HD
 #EXTGRP:| SCTV
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv1
@@ -105,24 +122,21 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv
 #EXTINF:0,BTV5 HD
 #EXTGRP:| SCTV
 https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
-#EXTINF:0,ANTV HD
-#EXTGRP:| Thiết yếu
-https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,VNews
-#EXTGRP:| Thiết yếu
-https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
-#EXTINF:0,Nhân Dân TV
-#EXTGRP:| Thiết yếu
-https://api.vthanhtivi.pw/v1/getlink/vieon/nhan-dan-hd
-#EXTINF:0,Quốc Hội HD
-#EXTGRP:| Thiết yếu
-https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,QPVN HD
-#EXTGRP:| Thiết yếu
-https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,VOVTV HD
-#EXTGRP:| Thiết yếu
-http://103.90.220.236/vovlive/tv1live.m3u8
+#EXTINF:0,BTV9 - An Viên TV
+#EXTGRP:| SCTV
+https://api.vthanhtivi.pw/v1/getlink/vieon/an-vien-hd
+#EXTINF:0,THVL1 HD
+#EXTGRP:| SCTV
+https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,THVL2 HD
+#EXTGRP:| SCTV
+https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,THVL3 HD
+#EXTGRP:| SCTV
+https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,THVL4 HD
+#EXTGRP:| SCTV
+https://api.vthanhtivi.pw/v1/getlink/mytv_web/429/hd
 #EXTINF:0,HTV1
 #EXTGRP:| HTV
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
@@ -174,9 +188,6 @@ https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0,HTVC Homeshopping
 #EXTGRP:| HTV
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
-#EXTINF:0,BTV9 - An Viên TV
-#EXTGRP:| Khác
-https://api.vthanhtivi.pw/v1/getlink/vieon/an-vien-hd
 #EXTINF:0,VTVcab 1 - Vie Giải trí HD
 #EXTGRP:| VTVcab
 https://api.vthanhtivi.pw/v1/getlink/vieon/vie-giai-tri-hd
@@ -330,18 +341,192 @@ https://api.vthanhtivi.pw/v1/getlink/tv360_s2/31/0
 #EXTINF:0,An Ninh Thế Giới
 #EXTGRP:| HCATV
 https://api.vthanhtivi.pw/v1/getlink/tv360_s2/21/0
-#EXTINF:0,THVL1 HD
-#EXTGRP:| Địa phương
-https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,THVL2 HD
-#EXTGRP:| Địa phương
-https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,THVL3 HD
-#EXTGRP:| Địa phương
-https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,THVL4 HD
-#EXTGRP:| Địa phương
-https://api.vthanhtivi.pw/v1/getlink/mytv_web/429/hd
+#EXTINF:0,HBO HD
+#EXTGRP:| HBO
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Cinemax HD
+#EXTGRP:| HBO
+https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Box Movie 1
+#EXTGRP:| In The Box
+https://api.vthanhtivi.pw/v1/getlink/cliptv/822
+#EXTINF:0,Hollywood Classics
+#EXTGRP:| In The Box
+https://api.vthanhtivi.pw/v1/getlink/cliptv/825
+#EXTINF:0,In The Box
+#EXTGRP:| In The Box
+https://api.vthanhtivi.pw/v1/getlink/cliptv/838
+#EXTINF:0,Box Hits
+#EXTGRP:| In The Box
+https://api.vthanhtivi.pw/v1/getlink/mytv_web/105/hd
+#EXTINF:0,Man
+#EXTGRP:| In The Box
+https://api.vthanhtivi.pw/v1/getlink/cliptv/837
+#EXTINF:0,Dr.Fit
+#EXTGRP:| In The Box
+https://api.vthanhtivi.pw/v1/getlink/cliptv/823
+#EXTINF:0,Happy Kids
+#EXTGRP:| In The Box
+https://api.vthanhtivi.pw/v1/getlink/cliptv/824
+#EXTINF:0,Music Box
+#EXTGRP:| In The Box
+https://api.vthanhtivi.pw/v1/getlink/mytv_web/69/hd
+#EXTINF:0,Planet Earth
+#EXTGRP:| In The Box
+https://api.vthanhtivi.pw/v1/getlink/tv360_s2/135/2
+#EXTINF:0,Woman
+#EXTGRP:| In The Box
+http://api.vthanhtivi.pw/v1/getlink/tv360_s2/163/2
+#EXTINF:0,Box Movie 1 SCTV
+#EXTGRP:| In The Box
+https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
+#EXTINF:0,Hollywood Classics SCTV
+#EXTGRP:| In The Box
+https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
+#EXTINF:0,Dr.Fit SCTV
+#EXTGRP:| In The Box
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0,Happy Kids SCTV
+#EXTGRP:| In The Box
+https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
+#EXTINF:0,Planet Earth SCTV
+#EXTGRP:| In The Box
+https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
+#EXTINF:0,Woman SCTV
+#EXTGRP:| In The Box
+https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
+#EXTINF:0,Animax HD
+#EXTGRP:| Hoạt hình
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Boomerang HD
+#EXTGRP:| Hoạt hình
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Cartoon Network HD
+#EXTGRP:| Hoạt hình
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Dreamworks
+#EXTGRP:| Hoạt hình
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,BabyFirst
+#EXTGRP:| Thiếu nhi
+https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,BabyTV HD
+#EXTGRP:| Thiếu nhi
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Da Vinci HD
+#EXTGRP:| Khoa học
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,BBC Earth
+#EXTGRP:| BBC
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,BBC Lifestyle
+#EXTGRP:| BBC
+https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,BBC Cbeebies
+#EXTGRP:| BBC
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,BBC World News
+#EXTGRP:| BBC
+https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Arirang
+#EXTGRP:| Quốc tế
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:0,ABC Australia
+#EXTGRP:| Quốc tế
+https://vips-livecdn.fptplay.net/hda3/australiaplus_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Bloomberg
+#EXTGRP:| Quốc tế
+https://vips-livecdn.fptplay.net/hda3/bloomberg_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,CNBC
+#EXTGRP:| Quốc tế
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,CNN
+#EXTGRP:| Quốc tế
+https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,CNA
+#EXTGRP:| Quốc tế
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0,CGTN
+#EXTGRP:| Quốc tế
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:0,DW
+#EXTGRP:| Quốc tế
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:0,France 24
+#EXTGRP:| Quốc tế
+https://api.vthanhtivi.pw/v1/getlink/vieon/france-24-english-hd
+#EXTINF:0,KBS World
+#EXTGRP:| Quốc tế
+https://api.vthanhtivi.pw/v1/getlink/vieon/kbs-world
+#EXTINF:0,NHK World
+#EXTGRP:| Quốc tế
+https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,TV5Monde
+#EXTGRP:| Quốc tế
+https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,TRT World
+#EXTGRP:| Quốc tế
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:0,Asian Food Network
+#EXTGRP:| Ẩm thực
+https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:| Khám phá
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Discovery
+#EXTGRP:| Khám phá
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Discovery Asia
+#EXTGRP:| Khám phá
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,History HD
+#EXTGRP:| Khám phá
+http://live.vthanhtivi.pw/history
+#EXTINF:0,National Geographic HD
+#EXTGRP:| Khám phá
+https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:| Khám phá
+https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Outdoor Channel HD
+#EXTGRP:| Khám phá
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,AXN HD
+#EXTGRP:| Giải trí
+http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Rock Entertainment
+#EXTGRP:| Giải trí
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,DMAX
+#EXTGRP:| Giải trí
+https://api.vthanhtivi.pw/v1/getlink/cliptv/841
+#EXTINF:0,CinemaWorld
+#EXTGRP:| Giải trí
+https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Fashion TV
+#EXTGRP:| Giải trí
+https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,HITS
+#EXTGRP:| Giải trí
+https://api.vthanhtivi.pw/v1/getlink/tv360_s2/107/0
+#EXTINF:0,HGTV
+#EXTGRP:| Giải trí
+https://api.vthanhtivi.pw/v1/getlink/tv360_s2/99/2
+#EXTINF:0,KIX HD
+#EXTGRP:| Giải trí
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Paramount Channel
+#EXTGRP:| Giải trí
+http://api.vthanhtivi.pw/v1/getlink/tv360_s2/150/2
+#EXTINF:0,TLC
+#EXTGRP:| Giải trí
+https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Warner TV
+#EXTGRP:| Giải trí
+http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,MTV
+#EXTGRP:| Âm nhạc
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,ATV | TH An Giang
 #EXTGRP:| Địa phương
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
@@ -573,189 +758,3 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:0,YTV HD | TH Yên Bái
 #EXTGRP:| Địa phương
 https://yenbaitv.org.vn/hls/livestream.m3u8
-#EXTINF:0,HBO HD
-#EXTGRP:| HBO
-https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Cinemax HD
-#EXTGRP:| HBO
-https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Box Movie 1
-#EXTGRP:| In The Box
-https://api.vthanhtivi.pw/v1/getlink/cliptv/822
-#EXTINF:0,Hollywood Classics
-#EXTGRP:| In The Box
-https://api.vthanhtivi.pw/v1/getlink/cliptv/825
-#EXTINF:0,In The Box
-#EXTGRP:| In The Box
-https://api.vthanhtivi.pw/v1/getlink/cliptv/838
-#EXTINF:0,Box Hits
-#EXTGRP:| In The Box
-https://api.vthanhtivi.pw/v1/getlink/mytv_web/105/hd
-#EXTINF:0,Man
-#EXTGRP:| In The Box
-https://api.vthanhtivi.pw/v1/getlink/cliptv/837
-#EXTINF:0,Dr.Fit
-#EXTGRP:| In The Box
-https://api.vthanhtivi.pw/v1/getlink/cliptv/823
-#EXTINF:0,Happy Kids
-#EXTGRP:| In The Box
-https://api.vthanhtivi.pw/v1/getlink/cliptv/824
-#EXTINF:0,Music Box
-#EXTGRP:| In The Box
-https://api.vthanhtivi.pw/v1/getlink/mytv_web/69/hd
-#EXTINF:0,Planet Earth
-#EXTGRP:| In The Box
-https://api.vthanhtivi.pw/v1/getlink/tv360_s2/135/2
-#EXTINF:0,Woman
-#EXTGRP:| In The Box
-http://api.vthanhtivi.pw/v1/getlink/tv360_s2/163/2
-#EXTINF:0,Box Movie 1 SCTV
-#EXTGRP:| In The Box
-https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
-#EXTINF:0,Hollywood Classics SCTV
-#EXTGRP:| In The Box
-https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
-#EXTINF:0,Dr.Fit SCTV
-#EXTGRP:| In The Box
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0,Happy Kids SCTV
-#EXTGRP:| In The Box
-https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
-#EXTINF:0,Planet Earth SCTV
-#EXTGRP:| In The Box
-https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
-#EXTINF:0,Woman SCTV
-#EXTGRP:| In The Box
-https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
-#EXTINF:0,Animax HD
-#EXTGRP:| Hoạt hình
-https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Boomerang HD
-#EXTGRP:| Hoạt hình
-https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Cartoon Network HD
-#EXTGRP:| Hoạt hình
-https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Dreamworks
-#EXTGRP:| Hoạt hình
-https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,BabyFirst
-#EXTGRP:| Thiếu nhi
-https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,BabyTV HD
-#EXTGRP:| Thiếu nhi
-https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Da Vinci HD
-#EXTGRP:| Khoa học
-https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,BBC Earth
-#EXTGRP:| BBC
-https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,BBC Lifestyle
-#EXTGRP:| BBC
-https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,BBC Cbeebies
-#EXTGRP:| BBC
-https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,BBC World News
-#EXTGRP:| BBC
-https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Arirang
-#EXTGRP:| Quốc tế
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:0,ABC Australia
-#EXTGRP:| Quốc tế
-https://vips-livecdn.fptplay.net/hda3/australiaplus_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Bloomberg
-#EXTGRP:| Quốc tế
-https://vips-livecdn.fptplay.net/hda3/bloomberg_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,CNBC
-#EXTGRP:| Quốc tế
-https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0,CNN
-#EXTGRP:| Quốc tế
-https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,CNA
-#EXTGRP:| Quốc tế
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:0,CGTN
-#EXTGRP:| Quốc tế
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:0,DW
-#EXTGRP:| Quốc tế
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0,France 24
-#EXTGRP:| Quốc tế
-https://api.vthanhtivi.pw/v1/getlink/vieon/france-24-english-hd
-#EXTINF:0,KBS World
-#EXTGRP:| Quốc tế
-https://api.vthanhtivi.pw/v1/getlink/vieon/kbs-world
-#EXTINF:0,NHK World
-#EXTGRP:| Quốc tế
-https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,TV5Monde
-#EXTGRP:| Quốc tế
-https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0,TRT World
-#EXTGRP:| Quốc tế
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:0,Asian Food Network
-#EXTGRP:| Ẩm thực
-https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:| Khám phá
-https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Discovery
-#EXTGRP:| Khám phá
-https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Discovery Asia
-#EXTGRP:| Khám phá
-https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,History HD
-#EXTGRP:| Khám phá
-http://live.vthanhtivi.pw/history
-#EXTINF:0,National Geographic HD
-#EXTGRP:| Khám phá
-https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Nat Geo Wild HD
-#EXTGRP:| Khám phá
-https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Outdoor Channel HD
-#EXTGRP:| Khám phá
-https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,AXN HD
-#EXTGRP:| Giải trí
-http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Rock Entertainment
-#EXTGRP:| Giải trí
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,DMAX
-#EXTGRP:| Giải trí
-https://api.vthanhtivi.pw/v1/getlink/cliptv/841
-#EXTINF:0,CinemaWorld
-#EXTGRP:| Giải trí
-https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Fashion TV
-#EXTGRP:| Giải trí
-https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,HITS
-#EXTGRP:| Giải trí
-https://api.vthanhtivi.pw/v1/getlink/tv360_s2/107/0
-#EXTINF:0,HGTV
-#EXTGRP:| Giải trí
-https://api.vthanhtivi.pw/v1/getlink/tv360_s2/99/2
-#EXTINF:0,KIX HD
-#EXTGRP:| Giải trí
-https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Paramount Channel
-#EXTGRP:| Giải trí
-http://api.vthanhtivi.pw/v1/getlink/tv360_s2/150/2
-#EXTINF:0,TLC
-#EXTGRP:| Giải trí
-https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,Warner TV
-#EXTGRP:| Giải trí
-http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,MTV
-#EXTGRP:| Âm nhạc
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
