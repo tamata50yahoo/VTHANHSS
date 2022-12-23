@@ -61,8 +61,10 @@ https://api.vthanhtivi.pw/v2/getlink/sctv/sctv3/playlist.m3u8
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv4/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/67.png", SCTV5 HD - SCJ
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv5/playlist.m3u8
+
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png", SCTV6 HD
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/69.png", SCTV7 HD
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv7/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8 HD
