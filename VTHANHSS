@@ -49,7 +49,8 @@ https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 http://103.90.220.236/vovlive/tv1live.m3u8
 #EXTINF:-1, SCTV1 HD
 #EXTGRP:SCTV
-https://api.vthanhtivi.pw/v2/getlink/sctv/sctv1/playlist.m3u8
+#https://api.vthanhtivi.pw/v2/getlink/sctv/sctv1/playlist.m3u8
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv1
 #EXTINF:-1, SCTV2 HD
 #EXTGRP:SCTV
 https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
@@ -59,24 +60,20 @@ https://api.vthanhtivi.pw/v2/getlink/sctv/sctv3/playlist.m3u8
 #EXTINF:-1, SCTV4 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv4/playlist.m3u8
-#EXTINF:-1, SCTV5 HD - SCJ
-#EXTGRP:SCTV
-https://api.vthanhtivi.pw/v2/getlink/sctv/sctv5/playlist.m3u8
+
 #EXTINF:-1, SCTV6 HD
 #EXTGRP:SCTV
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1, SCTV7 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv7/playlist.m3u8
+
 #EXTINF:-1, SCTV8 HD
 #EXTGRP:SCTV
 https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
 #EXTINF:-1, SCTV9 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv9/playlist.m3u8
-#EXTINF:-1, SCTV10
-#EXTGRP:SCTV
-https://api.vthanhtivi.pw/v2/getlink/sctv/sctv10/playlist.m3u8
 #EXTINF:-1, SCTV11 HD
 #EXTGRP:SCTV
 https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
@@ -86,9 +83,11 @@ https://api.vthanhtivi.pw/v2/getlink/sctv/sctv12/playlist.m3u8
 #EXTINF:-1, SCTV13 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv13/playlist.m3u8
+
 #EXTINF:-1, SCTV14 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv14/playlist.m3u8
+
 #EXTINF:-1, SCTV15 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv15/playlist.m3u8
