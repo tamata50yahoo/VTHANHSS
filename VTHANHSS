@@ -95,8 +95,8 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv13
 
 #EXTINF:-1, SCTV14 HD
 #EXTGRP:SCTV
-https://api.vthanhtivi.pw/v2/getlink/sctv/sctv14/playlist.m3u8
-#https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv14
+#https://api.vthanhtivi.pw/v2/getlink/sctv/sctv14/playlist.m3u8
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv14
 
 #EXTINF:-1, SCTV15 HD
 #EXTGRP:SCTV
@@ -114,8 +114,8 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
 
 #EXTINF:-1, SCTV18 HD
 #EXTGRP:SCTV
-https://api.vthanhtivi.pw/v2/getlink/sctv/sctv18/playlist.m3u8
-#https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv18
+#https://api.vthanhtivi.pw/v2/getlink/sctv/sctv18/playlist.m3u8
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv18
 
 #EXTINF:-1, SCTV19 HD
 #EXTGRP:SCTV
@@ -132,6 +132,7 @@ https://api.vthanhtivi.pw/v2/getlink/sctv/sctv21/playlist.m3u8
 #EXTINF:-1, SCTV22 HD
 #EXTGRP:SCTV
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
+
 #EXTINF:-1, SCTV HD Phim Tổng Hợp
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv/playlist.m3u8
