@@ -272,9 +272,6 @@ https://856175157.r.vtvcdn.com/ondrm/BIBI_PLUS_clear/m20_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab22lifetv" group-title="VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_dark/2022/08/02/dcwpwd73_vtvcab22-life-tvceb0699a7b37c2ab3a3ea481ddfd5651_468_134.png", VTVcab22 - Life TV
 https://856175157.r.vtvcdn.com/ondrm/LIFE_TV/m20_index.m3u8
 
-#EXTINF:-1, VTC Now
-#EXTGRP:VTC
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x8ariwq
 #EXTINF:-1, VTC1 HD
 #EXTGRP:VTC
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
