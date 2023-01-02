@@ -61,7 +61,6 @@ http://103.90.220.236/vovlive/tv1live.m3u8
 #EXTINF:-1, SCTV1 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv1/playlist.m3u8
-#https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv1
 
 #EXTINF:-1, SCTV2 HD
 #EXTGRP:SCTV
@@ -70,7 +69,6 @@ https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
 #EXTINF:-1, SCTV3 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv3/playlist.m3u8
-#https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv3
 
 #EXTINF:-1, SCTV4 HD
 #EXTGRP:SCTV
@@ -79,10 +77,10 @@ https://api.vthanhtivi.pw/v2/getlink/sctv/sctv4/playlist.m3u8
 #EXTINF:-1, SCTV6 HD
 #EXTGRP:SCTV
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1, SCTV7 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv7/playlist.m3u8
-#https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv7
 
 #EXTINF:-1, SCTV8 HD
 #EXTGRP:SCTV
@@ -90,6 +88,7 @@ https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
 #EXTINF:-1, SCTV9 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv9/playlist.m3u8
+
 #EXTINF:-1, SCTV11 HD
 #EXTGRP:SCTV
 https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
@@ -97,16 +96,13 @@ https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
 #EXTINF:-1, SCTV12 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv12/playlist.m3u8
-#https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv12
 
 #EXTINF:-1, SCTV13 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv13/playlist.m3u8
-#https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv13
 
 #EXTINF:-1, SCTV14 HD
 #EXTGRP:SCTV
-#https://api.vthanhtivi.pw/v2/getlink/sctv/sctv14/playlist.m3u8
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv14
 
 #EXTINF:-1, SCTV15 HD
@@ -116,17 +112,14 @@ https://api.vthanhtivi.pw/v2/getlink/sctv/sctv15/playlist.m3u8
 #EXTINF:-1, SCTV16 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv16/playlist.m3u8
-#https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv16
 
 #EXTINF:-1, SCTV17 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv17/playlist.m3u8
-#https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
 
 #EXTINF:-1, SCTV18 HD
 #EXTGRP:SCTV
-#https://api.vthanhtivi.pw/v2/getlink/sctv/sctv18/playlist.m3u8
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv18
+https://api.vthanhtivi.pw/v2/getlink/sctv/sctv18/playlist.m3u8
 
 #EXTINF:-1, SCTV19 HD
 #EXTGRP:SCTV
@@ -138,7 +131,6 @@ https://api.vthanhtivi.pw/v2/getlink/sctv/sctv20/playlist.m3u8
 #EXTINF:-1, SCTV21 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv21/playlist.m3u8
-
 
 #EXTINF:-1, SCTV22 HD
 #EXTGRP:SCTV
