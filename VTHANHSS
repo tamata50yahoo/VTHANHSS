@@ -121,6 +121,7 @@ https://api.vthanhtivi.pw/v2/getlink/sctv/sctv/playlist.m3u8
 #EXTINF:0,BTV5 HD
 #EXTGRP:SCTV
 https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
+
 #EXTINF:0,THVL1 HD
 #EXTGRP:SCTV
 https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
@@ -458,6 +459,7 @@ https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0,Warner TV
 #EXTGRP:Giải trí
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:0,ATV TH An Giang
 #EXTGRP:Địa phương
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
