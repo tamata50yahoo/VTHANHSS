@@ -292,6 +292,26 @@ http://livevlive.vtvcab.vn/hls/OS_ONVOLLEYBALL/sc-gaFEAA/m30_index.m3u8
 #EXTGRP:VTVCAB
 http://v.dl.dropboxusercontent.com/s/av4phtblxoseetw/%20
 
+#EXTINF:0, K+ CINE
+#EXTGRP:K+
+https://longpt.net/vtvcabon/k-plus-1.m3u8
+
+#EXTINF:0, K+LIFE
+#EXTGRP:K+
+https://longpt.net/vtvcabon/k-plus-ns.m3u8
+
+#EXTINF:0, K+ SPORT1
+#EXTGRP:K+ 
+https://longpt.net/vtvcabon/k-plus-pm.m3u8
+
+#EXTINF:0, K+ SPORT2
+#EXTGRP:K+
+https://longpt.net/vtvcabon/k-plus-pc.m3u8
+
+#EXTINF:0, K+ Kids
+#EXTGRP:K+
+https://longpt.net/vtvcabon/k-plus-kids.m3u8
+
 #EXTINF:0,HBO HD
 #EXTGRP:HBO
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
