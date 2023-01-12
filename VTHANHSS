@@ -100,7 +100,8 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/./s1/index.m3u8?phapferrari
 
 #EXTINF:0,SCTV13 HD
 #EXTGRP:SCTV
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv13
+https://s13.dl.dropboxusercontent.com/s/vaepmgj330mh22m/./%20
+#https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv13
 #EXTINF:0,SCTV14 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv14
