@@ -113,7 +113,8 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/./s1/index.m3u8?phapferrari
 #https://api.vthanhtivi.pw/v2/getlink/sctv/sctv18/playlist.m3u8
 #EXTINF:0,SCTV19 HD
 #EXTGRP:SCTV
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv19
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv19/./s1/index.m3u8?phapferrari|Referer=https://sctvonline.vn/
+#https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv19
 #EXTINF:0,SCTV20 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv20
