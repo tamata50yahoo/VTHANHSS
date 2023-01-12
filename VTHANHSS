@@ -75,7 +75,8 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv4
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0,SCTV7 HD
 #EXTGRP:SCTV
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv7
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/./s1/index.m3u8?phapferrari|Referer=https://sctvonline.vn/
+#https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv7
 #EXTINF:0,SCTV8 HD
 #EXTGRP:SCTV
 https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
