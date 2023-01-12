@@ -64,7 +64,8 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/./s1/index.m3u8?phapferrari|
 https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
 #EXTINF:0,SCTV3 HD
 #EXTGRP:SCTV
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv3/./s1/index.m3u8?phapferrari|Referer=http://sctvonline.vn/
+#https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv3
 #EXTINF:0,SCTV4 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv4
