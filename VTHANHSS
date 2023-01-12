@@ -59,13 +59,16 @@ https://api.vthanhtivi.pw/v2/getlink/vieon/an-vien-hd/playlist.m3u8
 #EXTGRP:SCTV
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/./s1/index.m3u8?phapferrari|Referer=http://sctvonline.vn/
 #https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv1
+
 #EXTINF:0,SCTV2 HD
 #EXTGRP:SCTV
 https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
+
 #EXTINF:0,SCTV3 HD
 #EXTGRP:SCTV
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv3/./s1/index.m3u8?phapferrari|Referer=http://sctvonline.vn/
 #https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv3
+
 #EXTINF:0,SCTV4 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv4
@@ -73,10 +76,12 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv4
 #EXTINF:0,SCTV6 HD
 #EXTGRP:SCTV
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:0,SCTV7 HD
 #EXTGRP:SCTV
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/./s1/index.m3u8?phapferrari|Referer=https://sctvonline.vn/
 #https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv7
+
 #EXTINF:0,SCTV8 HD
 #EXTGRP:SCTV
 https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
@@ -87,10 +92,12 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv9
 #EXTINF:0,SCTV11 HD
 #EXTGRP:SCTV
 https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
+
 #EXTINF:0,SCTV12 HD
 #EXTGRP:SCTV
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/./s1/index.m3u8?phapferrari|Referer=https://sctvonline.vn
 #https://api.vthanhtivi.pw/v2/getlink/sctv/sctv12/playlist.m3u8
+
 #EXTINF:0,SCTV13 HD
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv13
@@ -116,20 +123,26 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/./s1/index.m3u8?phapferrari
 #EXTGRP:SCTV
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv19/./s1/index.m3u8?phapferrari|Referer=https://sctvonline.vn/
 #https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv19
+
 #EXTINF:0,SCTV20 HD
 #EXTGRP:SCTV
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv20
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv20/index.m3u8?phap|Referer=http://sctvonline.vn/
+#https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv20
+
 #EXTINF:0,SCTV21 HD
 #EXTGRP:SCTV
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/./s1/index.m3u8?phapferrari|Referer=http://sctvonline.vn/
 #https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv21
+
 #EXTINF:0,SCTV22 HD
 #EXTGRP:SCTV
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
+
 #EXTINF:0,SCTV HD Phim Tổng Hợp
 #EXTGRP:SCTV
 https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/chunklist_b1692000.m3u8
 #https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv
+
 #EXTINF:0,BTV5 HD
 #EXTGRP:SCTV
 https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
