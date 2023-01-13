@@ -160,6 +160,26 @@ https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
 #EXTGRP:SCTV
 https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 
+#EXTINF:0, K+ CINE
+#EXTGRP:K+
+https://longpt.net/vtvcabon/k-plus-1.m3u8
+
+#EXTINF:0, K+LIFE
+#EXTGRP:K+
+https://longpt.net/vtvcabon/k-plus-ns.m3u8
+
+#EXTINF:0, K+ SPORT1
+#EXTGRP:K+ 
+https://longpt.net/vtvcabon/k-plus-pm.m3u8
+
+#EXTINF:0, K+ SPORT2
+#EXTGRP:K+
+https://longpt.net/vtvcabon/k-plus-pc.m3u8
+
+#EXTINF:0, K+ Kids
+#EXTGRP:K+
+https://longpt.net/vtvcabon/k-plus-kids.m3u8
+
 #EXTINF:0,THVL1 HD
 #EXTGRP:SCTV
 https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
@@ -233,26 +253,6 @@ https://api.vthanhtivi.pw/v2/getlink/tv360/31/0.m3u8
 #EXTINF:0,An Ninh Thế Giới
 #EXTGRP:HTV
 https://api.vthanhtivi.pw/v2/getlink/tv360/21/0.m3u8
-
-#EXTINF:0, K+ CINE
-#EXTGRP:K+
-https://longpt.net/vtvcabon/k-plus-1.m3u8
-
-#EXTINF:0, K+LIFE
-#EXTGRP:K+
-https://longpt.net/vtvcabon/k-plus-ns.m3u8
-
-#EXTINF:0, K+ SPORT1
-#EXTGRP:K+ 
-https://longpt.net/vtvcabon/k-plus-pm.m3u8
-
-#EXTINF:0, K+ SPORT2
-#EXTGRP:K+
-https://longpt.net/vtvcabon/k-plus-pc.m3u8
-
-#EXTINF:0, K+ Kids
-#EXTGRP:K+
-https://longpt.net/vtvcabon/k-plus-kids.m3u8
 
 #EXTINF:0,VTVCab1 HD - Vie Giải Trí
 #EXTGRP:VTVCAB
