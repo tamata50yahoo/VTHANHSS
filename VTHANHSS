@@ -234,7 +234,26 @@ https://api.vthanhtivi.pw/v2/getlink/tv360/31/0.m3u8
 #EXTGRP:HTV
 https://api.vthanhtivi.pw/v2/getlink/tv360/21/0.m3u8
 
-#EXTM3U
+#EXTINF:0, K+ CINE
+#EXTGRP:K+
+https://longpt.net/vtvcabon/k-plus-1.m3u8
+
+#EXTINF:0, K+LIFE
+#EXTGRP:K+
+https://longpt.net/vtvcabon/k-plus-ns.m3u8
+
+#EXTINF:0, K+ SPORT1
+#EXTGRP:K+ 
+https://longpt.net/vtvcabon/k-plus-pm.m3u8
+
+#EXTINF:0, K+ SPORT2
+#EXTGRP:K+
+https://longpt.net/vtvcabon/k-plus-pc.m3u8
+
+#EXTINF:0, K+ Kids
+#EXTGRP:K+
+https://longpt.net/vtvcabon/k-plus-kids.m3u8
+
 #EXTINF:0,VTVCab1 HD - Vie Giải Trí
 #EXTGRP:VTVCAB
 https://856175157.r.vtvcdn.com/ondrm/GIAITRI_TV_HD/m20_index.m3u8
@@ -304,26 +323,6 @@ http://livevlive.vtvcab.vn/hls/OS_ONVOLLEYBALL/sc-gaFEAA/m30_index.m3u8
 #EXTINF:0,Golf News
 #EXTGRP:VTVCAB
 http://v.dl.dropboxusercontent.com/s/av4phtblxoseetw/%20
-
-#EXTINF:0, K+ CINE
-#EXTGRP:K+
-https://longpt.net/vtvcabon/k-plus-1.m3u8
-
-#EXTINF:0, K+LIFE
-#EXTGRP:K+
-https://longpt.net/vtvcabon/k-plus-ns.m3u8
-
-#EXTINF:0, K+ SPORT1
-#EXTGRP:K+ 
-https://longpt.net/vtvcabon/k-plus-pm.m3u8
-
-#EXTINF:0, K+ SPORT2
-#EXTGRP:K+
-https://longpt.net/vtvcabon/k-plus-pc.m3u8
-
-#EXTINF:0, K+ Kids
-#EXTGRP:K+
-https://longpt.net/vtvcabon/k-plus-kids.m3u8
 
 #EXTINF:0,HBO HD
 #EXTGRP:HBO
