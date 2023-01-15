@@ -283,6 +283,10 @@ https://856175157.r.vtvcdn.com/ondrm/BIBI/m20_index.m3u8
 #EXTGRP:VTVCAB
 https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
 
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png", VTVcab 9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
+
 #EXTINF:0,ON Cine
 #EXTGRP:VTVCAB
 https://856175157.r.vtvcdn.com/ondrm/O2_TV/m20_index.m3u8
