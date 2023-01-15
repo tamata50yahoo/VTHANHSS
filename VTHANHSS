@@ -278,9 +278,11 @@ https://856175157.r.vtvcdn.com/ondrm/D_DRAMAS_HD/m30_index.m3u8
 #EXTINF:0,VTVCab8 - BiBi
 #EXTGRP:VTVCAB
 https://856175157.r.vtvcdn.com/ondrm/BIBI/m20_index.m3u8
-#EXTINF:0,VTVcab 9 - InfoTV
+
+#EXTINF:0, VTVcab9
 #EXTGRP:VTVCAB
 https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
+
 #EXTINF:0,ON Cine
 #EXTGRP:VTVCAB
 https://856175157.r.vtvcdn.com/ondrm/O2_TV/m20_index.m3u8
