@@ -332,22 +332,6 @@ https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTGRP:VTC
 https://api.vthanhtivi.pw/v2/getlink/vieon/vtc16-hd/playlist.m3u8
 
-#EXTINF:0,K+ CINE
-#EXTGRP:K
-https://longpt.net/vtvcabon/k-plus-1.m3u8
-#EXTINF:0,K+LIFE
-#EXTGRP:K
-https://longpt.net/vtvcabon/k-plus-ns.m3u8
-#EXTINF:0,K+ SPORT1
-#EXTGRP:K
-https://longpt.net/vtvcabon/k-plus-pm.m3u8
-#EXTINF:0,K+ SPORT2
-#EXTGRP:K
-https://longpt.net/vtvcabon/k-plus-pc.m3u8
-#EXTINF:0,K+ Kids
-#EXTGRP:K
-https://longpt.net/vtvcabon/k-plus-kids.m3u8
-
 #EXTINF:0,HBO HD
 #EXTGRP:HBO
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
