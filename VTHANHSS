@@ -38,9 +38,10 @@ https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0,VNews
 #EXTGRP:VTV
 https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
-#EXTINF:0 tvg-id="nhandan" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/92.png", Nhân Dân TV
-
+#EXTINF:0, Nhân Dân TV
+#EXTGRP:VTV
 https://api.vthanhtivi.pw/v2/getlink/vieon/nhan-dan-hd/playlist.m3u8
+
 #EXTINF:0,Quốc Hội HD
 #EXTGRP:VTV
 https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
