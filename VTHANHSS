@@ -133,7 +133,6 @@ https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v2/getlink/mytv/429/hd.m3u8
 
-
 #EXTINF:0,HTV1
 #EXTGRP:HTV
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
@@ -194,75 +193,99 @@ https://api.vthanhtivi.pw/v2/getlink/tv360/31/0.m3u8
 #EXTINF:0,An Ninh Thế Giới
 #EXTGRP:HTV
 https://api.vthanhtivi.pw/v2/getlink/tv360/21/0.m3u8
-#EXTINF:0,VTVCab1 HD - Vie Giải Trí
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/GIAITRI_TV_HD/m20_index.m3u8
+
+#EXTM3U
+#EXTINF:0,VTVcab 1 - Vie Giải trí HD
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon/vie-giai-tri-hd/playlist.m3u8
 #EXTINF:0,ON Phim Việt
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/PHIM_VIET/m20_index.m3u8
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/ad62967c-f8f2-4bb1-84bc-637282f14799/playlist.m3u8
 #EXTINF:0,ON Sports HD
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/THETHAO_HD/m30_index.m3u8
-#EXTINF:0,VTVCab4 HD
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/VAN_HOA/m20_index.m3u8
-#EXTINF:0,VTVCab5 HD - E Channel
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/E_CHANNEL/m30_index.m3u8
-#EXTINF:0,ON Sports+ HD
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/HAY_TV/m30_index.m3u8
-#EXTINF:0,VTVCab7 HD
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/D_DRAMAS_HD/m30_index.m3u8
-#EXTINF:0,VTVCab8 - BiBi
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/BIBI/m20_index.m3u8
-#EXTINF:0,VTVcab9
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/playlist.m3u8
+#EXTINF:0,ON Sports HD sv2
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/THETHAO_HD/sc-gaFEAQ/m30_index.m3u8
+#EXTINF:0,ON Movies
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/playlist.m3u8
+#EXTINF:0,VTVcab 5 - E Channel
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/f5729e7e-bf42-4e7d-988e-6204f94062b4/playlist.m3u8
+#EXTINF:0,ON Sports+
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/playlist.m3u8
+#EXTINF:0,ON Sports+ sv2
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/HAY_TV/sc-gaFEAQ/m30_index.m3u8
+#EXTINF:0,ON O2TV
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/a374ffd7-9910-4dcc-9c58-cd3f0e803226/playlist.m3u8
+#EXTINF:0,ON BiBi
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/0327f7ef-4c0f-4e66-a240-819452590d40/playlist.m3u8
+#EXTINF:0,VTVcab 9 - Info TV
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/6c7701f5-7ea6-4168-a245-3be82065ae58/playlist.m3u8
 #EXTINF:0,ON Cine
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/O2_TV/m20_index.m3u8
-#EXTINF:0,VTVCab12 - Style TV
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/STYLE_TV_HD/m30_index.m3u8
-#EXTINF:0,VTVcab15
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/M_CHANNEL/m20_index.m3u8
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/f7aaa051-d67c-4131-a486-98699d4c9863/playlist.m3u8
+#EXTINF:0,VTVcab 12 - Style TV
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/34c161ed-e70e-418d-b7a7-885500f8a355/playlist.m3u8
+#EXTINF:0,ON Music
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/5aea9637-1080-4f0b-a1b4-a8c9d4c3a536/playlist.m3u8
 #EXTINF:0,ON Football HD
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/BONGDA_HD/m30_index.m3u8
-#EXTINF:0,VTVCab17 - Yeah1 TV
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/YEAH1_TV/m20_index.m3u8
-#EXTINF:0,ON Sports News HD
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/THETHAO_TINTUC_HD/m30_index.m3u8
-#EXTINF:0,VTVCab19 HD - Vie DRAMAS
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/FILM_TV/m20_index.m3u8
-#EXTINF:0,VTVCab20 - V Family
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/VFAMILY/m20_index.m3u8
-#EXTINF:0,VTVCab21 HD - BiBi+
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/BIBI_PLUS_clear/m20_index.m3u8
-#EXTINF:0,VTVCab22 HD - Life TV
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/LIFE_TV/m20_index.m3u8
-#EXTINF:0,ON Golf HD
-#EXTGRP:VTVCAB
-https://856175157.r.vtvcdn.com/ondrm/THETHAO_GOLF_HD/m30_index.m3u8
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/playlist.m3u8
+#EXTINF:0,ON Football HD sv2
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/BONGDA_HD/sc-gaFEAQ/m30_index.m3u8
+#EXTINF:0,VTVcab 17 - Yeah1TV
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/1b029a49-b0fe-4ac5-b1cf-a9cb782ed0ec/playlist.m3u8
+#EXTINF:0,ON Sports News
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/987374ca-de49-4612-a159-b71f7880d134/playlist.m3u8
+#EXTINF:0,ON Sports News sv2
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/THETHAO_TINTUC_HD/sc-gaFEAQ/m30_index.m3u8
+#EXTINF:0,VTVcab 19 - Vie Dramas
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/mytv/201/hd.m3u8
+#EXTINF:0,VTVcab 20 - VFamily
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/2eb37e8d-2abf-4bce-aa44-b3b9a4460469/playlist.m3u8
+#EXTINF:0,ON Kids
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/005a05b2-14d6-4b94-9318-9e3bb78f6311/playlist.m3u8
+#EXTINF:0,ON Life
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/d65f1df2-54fd-46d8-a958-ae9d6ec2b868/playlist.m3u8
+#EXTINF:0,ON Golf
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/playlist.m3u8
+#EXTINF:0,ON Sports ENG
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_ONSPORTTA/sc-gaFEAA/m30_index.m3u8
+#EXTINF:0,ON Football ENG
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_ONFOOTBALLTA/sc-gaFEAA/m30_index.m3u8
+#EXTINF:0,ON Sports News ENG
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_ONSPORTNEWSTA/sc-gaFEAA/m30_index.m3u8
+#EXTINF:0,ON Golf ENG
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_ONGOLFTA/sc-gaFEAA/m30_index.m3u8
 #EXTINF:0,Bóng đá Việt
-#EXTGRP:VTVCAB
-http://livevlive.vtvcab.vn/hls/OS_ONVFFTV/sc-gaFEAA/m30_index.m3u8
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_ONVFFTV/sc-gaFEAA/m30_index.m3u8
 #EXTINF:0,Thể thao Việt
-#EXTGRP:VTVCAB
-http://livevlive.vtvcab.vn/hls/OS_ONVOLLEYBALL/sc-gaFEAA/m30_index.m3u8
-#EXTINF:0,Golf News
-#EXTGRP:VTVCAB
-http://v.dl.dropboxusercontent.com/s/av4phtblxoseetw/%20
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_ONVOLLEYBALL/sc-gaFEAA/m30_index.m3u8
+
 #EXTINF:0,VTC1 HD
 #EXTGRP:VTC
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
