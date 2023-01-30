@@ -194,12 +194,6 @@ https://api.vthanhtivi.pw/v2/getlink/mytv/45/hd.m3u8
 #EXTINF:0,HCATV2 - YouTV
 #EXTGRP:HTV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0,HCATV2 - YouTV (Viettel)
-#EXTGRP:HTV
-https://api.vthanhtivi.pw/v2/getlink/tv360/31/0.m3u8
-#EXTINF:0,An Ninh Thế Giới
-#EXTGRP:HTV
-https://api.vthanhtivi.pw/v2/getlink/tv360/21/0.m3u8
 
 #EXTM3U
 #EXTINF:0,VTVcab 1 - Vie Giải trí HD
