@@ -91,24 +91,28 @@ https://vtsstr4.tv24.vn/live/SCTV12_HD_new.smil/playlist.m3u8
 #EXTINF:0,SCTV13 HD
 #EXTGRP:SCTV
 https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
+
 #EXTINF:0,SCTV14 HD
 #EXTGRP:SCTV
 https://api.anttv.xyz/get/sctv/sctv14/playlist.m3u8
-
 #https://cocc.me/🇸¹⁴|Referer=https://sctvonline.vn/
 
 #EXTINF:0,SCTV15 HD
 #EXTGRP:SCTV
-https://856175157.r.vtvcdn.com/ondrm/SCTV15_HD/sc-gaFEAQ/m30_index.m3u8
+https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/playlist.m3u8
+#https://856175157.r.vtvcdn.com/ondrm/SCTV15_HD/sc-gaFEAQ/m30_index.m3u8
+
 #EXTINF:0,SCTV16 HD
 #EXTGRP:SCTV
 https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
 #EXTINF:0,SCTV17 HD
 #EXTGRP:SCTV
 https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
+
 #EXTINF:0,SCTV18 HD
 #EXTGRP:SCTV
 https://vtsstr4.tv24.vn/live/SCTV18_HD_new.smil/playlist.m3u8
+
 #EXTINF:0,SCTV19 HD
 #EXTGRP:SCTV
 https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8
@@ -260,6 +264,25 @@ https://api.vthanhtivi.pw/v2/getlink/vieon2/d65f1df2-54fd-46d8-a958-ae9d6ec2b868
 #EXTINF:0,ON Golf
 #EXTGRP:VTVcab
 https://api.vthanhtivi.pw/v2/getlink/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/playlist.m3u8
+
+#EXTINF:0,ON Sports ENG
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_ONSPORTTA/sc-gaFEAA/m30_index.m3u8
+#EXTINF:0,ON Football ENG
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_ONFOOTBALLTA/sc-gaFEAA/m30_index.m3u8
+#EXTINF:0,ON Sports News ENG
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_ONSPORTNEWSTA/sc-gaFEAA/m30_index.m3u8
+#EXTINF:0,ON Golf ENG
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_ONGOLFTA/sc-gaFEAA/m30_index.m3u8
+#EXTINF:0,Bóng đá Việt
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_ONVFFTV/sc-gaFEAA/m30_index.m3u8
+#EXTINF:0,Thể thao Việt
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_ONVOLLEYBALL/sc-gaFEAA/m30_index.m3u8
 
 
 #EXTINF:0,VTC1 HD
