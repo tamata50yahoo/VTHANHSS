@@ -15,13 +15,6 @@ https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTGRP:VTV
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1,VTV5 Tây Nam Bộ
-#EXTGRP:VTV
-https://api.vthanhtivi.pw/v2/getlink/mytv/615/hd.m3u8
-
-#EXTINF:0,VTV5 Tây Nguyên
-#EXTGRP:VTV
-https://api.vthanhtivi.pw/v2/getlink/vtv/vtv5tn/playlist.m3u8
 #EXTINF:0,VTV Cần Thơ
 #EXTGRP:VTV
 https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
