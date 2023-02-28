@@ -467,10 +467,10 @@ https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0,HITS
 #EXTGRP:Giải trí
-https://api.vthanhtivi.pw/v2/getlink/mytv/515/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
 #EXTINF:0,HGTV
 #EXTGRP:Giải trí
-https://api.vthanhtivi.pw/v2/getlink/tv360/99/2.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 #EXTINF:0,KIX HD
 #EXTGRP:Giải trí
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
@@ -480,7 +480,7 @@ https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0,Warner TV
 #EXTGRP:Giải trí
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,ATV TH An Giang
+
 #EXTGRP:Địa phương
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,BRT HD TH Bà Rịa Vũng Tàu
@@ -491,7 +491,7 @@ http://113.163.216.23:1935/live/tv2.stream/playlist.m3u8
 http://103.90.220.236/bgtvlive/tv1live.m3u8
 #EXTINF:0,BTV HD TH Bắc Ninh
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/mytv/360/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/360/hd.m3u8
 #EXTINF:0,TBK HD TH Bắc Kạn
 #EXTGRP:Địa phương
 https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
@@ -500,13 +500,13 @@ https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:0,THBT HD TH Bến Tre
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/mytv/167/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/167/hd.m3u8
 #EXTINF:0,BTV HD TH Bình Định
 #EXTGRP:Địa phương
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 #EXTINF:0,BTV1 HD TH Bình Dương
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/mytv/402/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/402/hd.m3u8
 #EXTINF:0,BTV2 HD TH Bình Dương
 #EXTGRP:Địa phương
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
@@ -533,13 +533,13 @@ http://103.90.220.236/bptvlive/tv2live.m3u8
 http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
 #EXTINF:0,CTV HD TH Cà Mau
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/vieon/ca-mau-1/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
 #EXTINF:0,THTPCT HD TH Cần Thơ
 #EXTGRP:Địa phương
 https://tv.tchgroup.vn/live/tv_web/chunklist.m3u8
 #EXTINF:0,CRTV HD TH Cao Bằng
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/mytv/141/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/141/hd.m3u8
 #EXTINF:0,DaNangTV1 HD
 #EXTGRP:Địa phương
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
@@ -557,13 +557,13 @@ https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,ĐNRTV1 HD TH Đồng Nai
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/mytv/404/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/404/hd.m3u8
 #EXTINF:0,ĐNRTV2 HD TH Đồng Nai
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/tv360/255/3.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/255/3.m3u8
 #EXTINF:0,ĐNRTV3 TH Đồng Nai
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/dnlive/dnrtv3/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
 #EXTINF:0,THĐT1 HD TH Đồng Tháp
 #EXTGRP:Địa phương
 https://livecdn.fptplay.net/sdc/dongthap_2000.stream/playlist.m3u8
@@ -572,7 +572,7 @@ https://livecdn.fptplay.net/sdc/dongthap_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
 #EXTINF:0,THGL HD TH Gia Lai
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/vieon/gia-lai-1/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/gia-lai-1/playlist.m3u8
 #EXTINF:0,HGTV HD TH Hà Giang
 #EXTGRP:Địa phương
 https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
@@ -587,13 +587,13 @@ https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_1080p/chunks.m3u8
 https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
 #EXTINF:0,HTTV HD TH Hà Tĩnh
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/mytv/405/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/405/hd.m3u8
 #EXTINF:0,THD HD TH Hải Dương
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/cliptv/324/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/cliptv/324/playlist.m3u8
 #EXTINF:0,THP HD TH Hải Phòng
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/mytv/407/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/407/hd.m3u8
 #EXTINF:0,THP+ HD TH Hải Phòng
 #EXTGRP:Địa phương
 https://live.thhp.vn/hls/thpplus/index.m3u8
@@ -602,7 +602,7 @@ https://live.thhp.vn/hls/thpplus/index.m3u8
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 #EXTINF:0,HBTV HD TH Hòa Bình
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/mytv/159/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/159/hd.m3u8
 #EXTINF:0,HY HD TH Hưng Yên
 #EXTGRP:Địa phương
 http://103.90.220.236/hytvlive/tv1live.m3u8
@@ -647,19 +647,19 @@ http://103.90.220.236/nbtvlive/tv1live.m3u8
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
 #EXTINF:0,PTV HD TH Phú Thọ
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/mytv/410/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/410/hd.m3u8
 #EXTINF:0,PTP HD TH Phú Yên
 #EXTGRP:Địa phương
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,QBTV TH Quảng Bình
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/nethubtv/9359/1.m3u8
+https://code.vthanhtivi.pw/getlink/nethubtv/9359/1.m3u8
 #EXTINF:0,QRT TH Quảng Nam
 #EXTGRP:Địa phương
 https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,PTQ HD TH Quảng Ngãi
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/mytv/409/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/409/hd.m3u8
 #EXTINF:0,QTV1 HD TH Quảng Ninh
 #EXTGRP:Địa phương
 http://103.90.220.236/qtvlive/tv1live.m3u8
@@ -671,25 +671,22 @@ http://103.90.220.236/qtvlive/tv3live.m3u8
 http://103.90.220.236/qrtvlive/tv1live.m3u8
 #EXTINF:0,STV1 TH Sóc Trăng
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/mytv/52/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/52/hd.m3u8
 #EXTINF:0,STV HD TH Sơn La
 #EXTGRP:Địa phương
 http://103.90.220.236/sltvlive/tv1live-transmux.m3u8
 #EXTINF:0,TTV11 HD TH Tây Ninh
 #EXTGRP:Địa phương
-http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/tay-ninh-3/playlist.m3u8
 #EXTINF:0,TBTV HD TH Thái Bình
 #EXTGRP:Địa phương
 http://103.90.220.236/tbtvlive/tv1live.m3u8
 #EXTINF:0,TN1 HD TH Thái Nguyên
 #EXTGRP:Địa phương
 http://103.90.220.236/tntvlive/tv1live.m3u8
-#EXTINF:0,TN2 TH Thái Nguyên
-#EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/nethubtv/5969/1.m3u8
 #EXTINF:0,TTV HD TH Thanh Hóa
 #EXTGRP:Địa phương
-https://api.vthanhtivi.pw/v2/getlink/mytv/477/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/477/hd.m3u8
 #EXTINF:0,TRT TH Thừa Thiên Huế
 #EXTGRP:Địa phương
 https://live.trt.com.vn/TRT-Online/chunklist.m3u8
@@ -708,3 +705,6 @@ https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,VP HD TH Vĩnh Phúc
 #EXTGRP:Địa phương
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
+#EXTINF:0,YTV HD TH Yên Bái
+#EXTGRP:Địa phương
+https://yenbaitv.org.vn/hls/livestream.m3u8
