@@ -35,6 +35,7 @@ https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0,VTV9
 #EXTGRP:VTV
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:0,ANTV HD
 #EXTGRP:VTV
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -324,12 +325,12 @@ https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0,Box Hits
 #EXTGRP:In The Box
-https://api.vthanhtivi.pw/v2/getlink/mytv/105/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 
 
 #EXTINF:0,Music Box
 #EXTGRP:In The Box
-https://api.vthanhtivi.pw/v2/getlink/mytv/69/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
 
 
 #EXTINF:0,Box Movie 1 SCTV
