@@ -283,13 +283,13 @@ https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0,VTC5 HD
 #EXTGRP:VTC
-https://api.vthanhtivi.pw/v2/getlink/vieon/vtc5-hd/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtc5-hd/playlist.m3u8
 #EXTINF:0,VTC6 HD
 #EXTGRP:VTC
-https://api.vthanhtivi.pw/v2/getlink/vieon/vtc6/playlist.m3u8
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,VTC7 HD - TodayTV
 #EXTGRP:VTC
-https://api.vthanhtivi.pw/v2/getlink/vieon/vtc7-todaytv-hd/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtc7-todaytv-hd/playlist.m3u8
 #EXTINF:0,VTC8
 #EXTGRP:VTC
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
@@ -313,7 +313,7 @@ https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0,VTC16 HD
 #EXTGRP:VTC
-https://api.vthanhtivi.pw/v2/getlink/vieon/vtc16-hd/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtc16-hd/playlist.m3u8
 
 #EXTINF:0,HBO HD
 #EXTGRP:HBO
