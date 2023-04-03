@@ -313,10 +313,10 @@ https://code.vthanhtivi.pw/getlink/vieon/vtc16-hd/playlist.m3u8
 
 #EXTINF:0,HBO HD
 #EXTGRP:HBO
-https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+http://live.vthanhtivi.pw/hbo
 #EXTINF:0,Cinemax HD
 #EXTGRP:HBO
-https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+http://live.vthanhtivi.pw/cinemax
 
 
 #EXTINF:0,Box Hits
