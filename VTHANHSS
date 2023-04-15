@@ -346,11 +346,11 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0,HBO HD
 #EXTGRP:HBO
-https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
+http://live.vthanhtivi.pw/hbo
 
 #EXTINF:0,Cinemax HD
 #EXTGRP:HBO
-https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
+http://live.vthanhtivi.pw/cinemax
 
 
 #EXTINF:0,Box Hits
