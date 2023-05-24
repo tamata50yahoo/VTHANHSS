@@ -143,42 +143,40 @@ https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0,HTV1
 #EXTGRP:HTV
-https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
 #EXTINF:0,HTV2 - Vie Channel
 #EXTGRP:HTV
-https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:0,HTV3 - Cháo TV
 #EXTGRP:HTV
-https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
 #EXTINF:0,HTV Key
 #EXTGRP:HTV
-https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+https://code.vthanhtivi.pw/getlink/htv/2528/playlist.m3u8
+#EXTINF:0,HTV Thể Thao 50fps
+#EXTGRP:HTV
+https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8 
 #EXTINF:0,HTV7 HD
 #EXTGRP:HTV
-https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/128/hd.m3u8
+#EXTINF:0,HTVC Thuần Việt
+#EXTGRP:HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 #EXTINF:0,HTV9 HD
 #EXTGRP:HTV
-https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/190/hd.m3u8
 #EXTINF:0,HTV CO.OP
 #EXTGRP:HTV
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
-#EXTINF:0,HTV Thể Thao
-#EXTGRP:HTV
-https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:0,HTVC Thuần Việt
-#EXTGRP:HTV
-https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:0,HTVC Gia đình HD
 #EXTGRP:HTV
-https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
 #EXTINF:0,HTVC Phụ nữ HD
 #EXTGRP:HTV
-https://vips-livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
 #EXTINF:0,HTVC Du lịch Cuộc sống HD
 #EXTGRP:HTV
-https://vips-livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 #EXTINF:0,HTVC Ca nhạc HD
 #EXTGRP:HTV
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
@@ -187,10 +185,11 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:0,HTVC Plus HD
 #EXTGRP:HTV
-https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
 #EXTINF:0,HTVC Homeshopping
 #EXTGRP:HTV
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
+
 #EXTINF:0,HCATV1 - HiTV HD
 #EXTGRP:HTV
 https://code.vthanhtivi.pw/getlink/mytv/45/hd.m3u8
