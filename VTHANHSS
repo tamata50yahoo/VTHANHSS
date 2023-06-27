@@ -35,7 +35,8 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0,VNews
 #EXTGRP:VTV
-https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/NTY0MTR8dHR4dm5fdmhscy5zbWlsfGZwdHwxNjg3ODY5OTA4fDQyLjExOS4xMjcuMTY2fDM3YjA2OGU1NTEyY2Y4Mjg3MDAzOTE2ZDY3MzIzODQ5/epzhd2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:0, Nhân Dân TV
 #EXTGRP:VTV
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
