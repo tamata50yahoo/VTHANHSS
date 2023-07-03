@@ -1,44 +1,41 @@
 #EXTM3U
-#EXTINF:0,VTV1
-#EXTGRP:VTV
-http://live-zlr1.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
-#EXTINF:0,VTV2
-#EXTGRP:VTV
-http://live-zlr1.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
-#EXTINF:0,VTV3
-#EXTGRP:VTV
-http://live-zlr1.tv360.vn/manifest/VTV3/playlist_720p.m3u8
-#EXTINF:0,VTV4
-#EXTGRP:VTV
-http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
-#EXTINF:0,VTV5
-#EXTGRP:VTV
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
+https://code.vthanhtivi.pw/getlink/mytv/210/hd.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
+https://code.vthanhtivi.pw/getlink/mytv/377/hd.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
+https://code.vthanhtivi.pw/getlink/mytv/211/hd.m3u8
+
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
+https://code.vthanhtivi.pw/getlink/mytv/378/hd.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 https://code.vthanhtivi.pw/getlink/mytv/379/hd.m3u8
 
 
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
+https://code.vthanhtivi.pw/getlink/mytv/212/hd.m3u8
 
-#EXTINF:0,VTV Cần Thơ
-#EXTGRP:VTV
-http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u88
-#EXTINF:0,VTV7
-#EXTGRP:VTV
-http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
-#EXTINF:0,VTV8
-#EXTGRP:VTV
-http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
-#EXTINF:0,VTV9
-#EXTGRP:VTV
-http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
+https://code.vthanhtivi.pw/getlink/mytv/459/hd.m3u8
 
-#EXTINF:-1 tvg-id="antvhd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
+https://code.vthanhtivi.pw/getlink/mytv/380/hd.m3u
+
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
+https://code.vthanhtivi.pw/getlink/mytv/381/hd.m3u8
+
+#EXTINF:-1 tvg-id="antvhd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png", ANTV HD
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png", VNews
-https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/chunklist.m3u8
+https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist_w1515940883.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/92.png", Nhân Dân TV
 https://code.vthanhtivi.pw/getlink/mytv/224/hd.m3u8
-#EXTINF:-1 tvg-id="quochoi" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Quốc Hội HD
+#EXTINF:-1 tvg-id="quochoi" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội HD
 http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD
+#EXTINF:-1 tvg-id="qpvnhd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png", QPVN HD
 https://code.vthanhtivi.pw/getlink/mytv/227/hd.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV HD
 http://103.90.220.236/vovlive/tv1live.m3u8
