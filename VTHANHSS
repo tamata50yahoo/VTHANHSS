@@ -248,11 +248,11 @@ http://code.vthanhtivi.pw/getlink/mytv/33/hd.m3u8
 
 #EXTINF:-1, HBO HD
 #EXTGRP:HBO
-http://live.vthanhtivi.pw/hbo
+http://live.vthanhtivi.pw/hbo/index.m3u8
 
 #EXTINF:-1, Cinemax HD
 #EXTGRP:HBO
-http://live.vthanhtivi.pw/cinemax
+http://live.vthanhtivi.pw/cinemax/index.m3u8
 
 
 #EXTINF:-1, Box Hits
@@ -260,26 +260,34 @@ http://live.vthanhtivi.pw/cinemax
 https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 
 
-#EXTINF:-1,Music Box
-#EXTGRP:In The Box
+#EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
+
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
+http://sg.tinchuanchuaanh.com:8080/HOLLYWOOD_CLASSICS/index.m3u8
+
+#EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+http://sg.tinchuanchuaanh.com:8080/IN_THE_BOX/index.m3u8
+
+#EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
+https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
+#EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
+https://code.vthanhtivi.pw/getlink/tv360/237/2.m3u8
+
+#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
+https://code.vthanhtivi.pw/getlink/tv360/162/2.m3u8
+
+#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
+https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
+
+#EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
 https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
+https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
 
+#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
+https://code.vthanhtivi.pw/getlink/tv360/163/2.m3u8
 
-#EXTINF:-1,Box Movie 1 SCTV
-#EXTGRP:In The Box
-https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
-#EXTINF:-1,Hollywood Classics SCTV
-#EXTGRP:In The Box
-https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
-#EXTINF:-1,Happy Kids SCTV
-#EXTGRP:In The Box
-https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
-#EXTINF:-1,Planet Earth SCTV
-#EXTGRP:In The Box
-https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
-#EXTINF:-1,Woman SCTV
-#EXTGRP:In The Box
-https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 #EXTINF:-1,Animax HD
 #EXTGRP:Hoạt hình
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
