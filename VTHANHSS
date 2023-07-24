@@ -247,13 +247,16 @@ https://code.vthanhtivi.pw/getlink/mytv/32/hd.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png", VTC16 HD
 http://code.vthanhtivi.pw/getlink/mytv/33/hd.m3u8
 
-#EXTINF:-1, HBO HD
-#EXTGRP:HBO
-http://live.vthanhtivi.pw/hbo/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
+http://live.vthanhtivi.pw/hbo
+#EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD Dự phòng
+https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
 
-#EXTINF:-1, Cinemax HD
-#EXTGRP:HBO
-http://live.vthanhtivi.pw/cinemax/index.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
+http://live.vthanhtivi.pw/cinemax
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD Dự phòng
+https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 
 
 #EXTINF:-1, Box Hits
