@@ -204,14 +204,12 @@ https://code.vthanhtivi.pw/getlink/vieon/vtc14-hd/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/vieon/vtc16-hd/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
+
 http://live.vthanhtivi.pw/hbo
-#EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD Dự phòng
+#EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD Dự phòng
 https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
-http://live.vthanhtivi.pw/cinemax
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD Dự phòng
 https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
