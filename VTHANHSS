@@ -19,10 +19,12 @@ http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65
 http://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6GVgfg/VTV7-BEARTV.png",VTV7
-https://code.vthanhtivi.pw/getlink/vieon/vtv7-hd/playlist.m3u8
+
+https://live2onsport.vtvcab.vn/dash/VTV7_HD/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd"group-title="VTV" tvg-logo="https://i.ibb.co/FYvN38c/VTV8-BEARTV.png",VTV8
-https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
+
+https://live2onsport.vtvcab.vn/dash/VTV8_HD/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q671mTF/VTV9-BEARTV.png",VTV9
 https://live2onsport.vtvcab.vn/dash/VTV9_HD/m20_index.m3u8
