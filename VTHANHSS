@@ -125,18 +125,8 @@ https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
 #EXTINF:0,Cinemax HD Dự phòng
 #EXTGRP:HBO
 https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
-#EXTINF:0,Box Hits
-#EXTGRP:In The Box
-https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
-#EXTINF:0,Box Movie 1
-#EXTGRP:In The Box
-http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
-#EXTINF:0,Hollywood Classics
-#EXTGRP:In The Box
-http://sg.tinchuanchuaanh.com:8080/HOLLYWOOD_CLASSICS/index.m3u8
-#EXTINF:0,In The Box
-#EXTGRP:In The Box
-http://sg.tinchuanchuaanh.com:8080/IN_THE_BOX/index.m3u8
+
+
 #EXTINF:0,Man
 #EXTGRP:In The Box
 https://code.vthanhtivi.pw/getlink/tv360/237/2.m3u8
@@ -146,9 +136,7 @@ https://code.vthanhtivi.pw/getlink/tv360/162/2.m3u8
 #EXTINF:0,Happy Kids
 #EXTGRP:In The Box
 https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
-#EXTINF:0,Music Box
-#EXTGRP:In The Box
-https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
+
 #EXTINF:0,Planet Earth
 #EXTGRP:In The Box
 https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
@@ -158,9 +146,7 @@ https://code.vthanhtivi.pw/getlink/tv360/163/2.m3u8
 #EXTINF:0,VTC1 HD
 #EXTGRP:VTC
 https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
-#EXTINF:0,VTC7 HD - TodayTV
-#EXTGRP:VTC
-https://code.vthanhtivi.pw/getlink/vieon/vtc7-todaytv-hd/playlist.m3u8
+
 #EXTINF:0,VTC2
 #EXTGRP:VTC
 https://code.vthanhtivi.pw/getlink/tv360/196/0.m3u8
@@ -176,6 +162,11 @@ https://code.vthanhtivi.pw/getlink/vieon/vtc5-hd/playlist.m3u8
 #EXTINF:0,VTC6 HD
 #EXTGRP:VTC
 https://1117141481.vnns.net/VTC6/playlist.m3u8
+
+#EXTINF:0,VTC7 HD - TodayTV
+#EXTGRP:VTC
+https://code.vthanhtivi.pw/getlink/vieon/vtc7-todaytv-hd/playlist.m3u8
+
 #EXTINF:0,VTC8
 #EXTGRP:VTC
 https://code.vthanhtivi.pw/getlink/tv360/202/0.m3u8
