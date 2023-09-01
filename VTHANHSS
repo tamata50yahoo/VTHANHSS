@@ -19,13 +19,13 @@ http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65
 http://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 #EXTINF:0,VTV7
 #EXTGRP:VTV
-https://live2onsport.vtvcab.vn/dash/VTV7_HD/m20_index.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtv7-hd/playlist.m3u8
 #EXTINF:0,VTV8
 #EXTGRP:VTV
 https://live2onsport.vtvcab.vn/dash/VTV8_HD/m20_index.m3u8
 #EXTINF:0,VTV9
 #EXTGRP:VTV
-https://live2onsport.vtvcab.vn/dash/VTV9_HD/m20_index.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
 #EXTINF:0,VTV5 TÂY NAM BỘ
 #EXTGRP:VTV
 https://live-zlr1.tv360.vn/manifest/VTV5-TNB/playlist_1080p.m3u8
