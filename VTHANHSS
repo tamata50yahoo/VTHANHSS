@@ -106,9 +106,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
 #EXTINF:0,HTVC Homeshopping
 #EXTGRP:HTV
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
-#EXTINF:0,SCTV6 HD
-#EXTGRP:SCTV
-https://live-zlr1.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
+
 #EXTINF:0,BTV5 HD
 #EXTGRP:SCTV
 https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
