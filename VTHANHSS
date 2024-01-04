@@ -24,9 +24,7 @@ https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 https://code.vthanhtivi.pw/getlink/tv360/kk96UHemoe_7pAJogmtVHA/1704288638/207/playlist.m3u8
 
-#EXTINF:0,BTV9 - An Viên TV
-#EXTGRP:VTV
-https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
+
 #EXTINF:0,ANTV HD
 #EXTGRP:VTV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
@@ -45,6 +43,10 @@ http://27.76.137.122:1935/standard/smil:standard.smil/playlist.m3u8
 #EXTINF:0,VOVTV HD
 #EXTGRP:VTV
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+#EXTINF:0,BTV9 - An Viên TV
+#EXTGRP:VTV
+https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
+
 #EXTINF:0,HTV1
 #EXTGRP:HTV
 https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
