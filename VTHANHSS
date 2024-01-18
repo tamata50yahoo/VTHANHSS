@@ -46,7 +46,7 @@ http://27.76.137.122:1935/standard/smil:standard.smil/chunklist_w1933869513_b996
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 #EXTINF:0,BTV9 - An Viên TV
 #EXTGRP:VTV
-http://hoatv001.ddns.net:9981/stream/mux/4b333926e3bebd23e990d4df53543285?playlist.m3u8
+https://ott3.nethubtv.vn/live/anvien/chunklist_1.m3u8
 
 #EXTINF:0 tvg-id="htv1" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png", HTV1
 https://code.vthanhtivi.pw/getlink/htv/htv1-2631/playlist.m3u8
