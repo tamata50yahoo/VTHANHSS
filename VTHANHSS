@@ -90,12 +90,19 @@ https://code.vthanhtivi.pw/getlink/tv360/DQrrFPSH0uvDpKwMElurig/1705594534/219/p
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD
 https://code.vthanhtivi.pw/getlink/tv360/o20EfOKZX4rfH2JbPWsJdw/1705594534/220/playlist.m3u8
 
-#EXTINF:0,HBO HD Dự phòng
-#EXTGRP:HBO
-http://vthanhtivi.pw:5000/hbo/index.m3u8
-#EXTINF:0,Cinemax HD Dự phòng
-#EXTGRP:HBO
-http://vthanhtivi.pw:5000/cinemax/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="HBO tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
+http://fpt.vthanhtivi.pw/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="hbohd" group-title="HBO tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD Dự phòng
+https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
+http://fpt.vthanhtivi.pw/cinemax/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD Dự phòng
+https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" group-logo="https://cdn.hqth.me/logo/category/kplus.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE
 http://vnorig.vthanhtivi.pw/kcine/index.m3u8
