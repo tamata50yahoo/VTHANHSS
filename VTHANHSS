@@ -247,7 +247,7 @@ udp://@225.1.1.163:30120
 udp://225.1.1.104:30120
 
 #EXTINF:-1 tvg-id="hbo" group-title="QUOC TE" tvg-logo="https://i.imgur.com/6Ss42do.png",HBO HD
-udp://@225.1.2.112:30120
+udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="redbyhbo" group-title="QUOC TE" tvg-logo="https://i.imgur.com/1s5LdqQ.png",Red by HBO HD
 udp://@225.1.1.89:30120
 #EXTINF:-1 tvg-id="maxbyhbo" group-title="QUOC TE" tvg-logo="https://i.imgur.com/SOfIznJ.png",Max by HBO HD
