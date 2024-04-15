@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0,VTV1
+#EXTGRP:VTV
+https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0,VTV1 (HD 8Mbps)
 #EXTGRP:VTV
 udp://@225.1.2.249:30120
