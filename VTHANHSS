@@ -725,10 +725,8 @@ http://103.130.141.67:81/live/4/playlist.m3u8
 #EXTGRP:Quốc Tế HD
 http://210.210.155.37/dr9445/h/h07/01.m3u8
 
-#EXTINF:0,Love Nature
-#EXTGRP:Quốc Tế HD
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:0,Arirang
+
+#EXTINF:0, Arirang
 #EXTGRP:Quốc Tế SD
 udp://@225.1.1.201:30120
