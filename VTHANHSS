@@ -707,9 +707,7 @@ udp://@225.1.3.70:30120
 #EXTINF:0,WBTV (HD 8Mbps)
 #EXTGRP:Quốc Tế HD
 udp://@225.1.3.26:30120
-#EXTINF:0,Cinemax Asia
-#EXTGRP:Quốc Tế HD
-http://ip168.homeip.net:8086/cinemax.m3u8
+
 #EXTINF:0,SPOTV
 #EXTGRP:Quốc Tế HD
 http://202.150.161.68/spotv1/index.m3u8
