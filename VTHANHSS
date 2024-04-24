@@ -599,7 +599,7 @@ udp://@225.1.2.211:30120
 #EXTINF:0,HBO (HD 8Mbps)
 #EXTGRP:Quốc Tế HD
 udp://@225.1.1.112:30120
-#EXTINF:0,HBO (HD 8Mbps)
+#EXTINF:0,HBO1 (HD 8Mbps)
 #EXTGRP:Quốc Tế HD
 udp://@225.1.2.233:30120
 #EXTINF:0,KBS World (HD 8Mbps)
@@ -686,9 +686,7 @@ udp://@225.1.3.72:30120
 #EXTINF:0,France 24 (English) (HD 8Mbps)
 #EXTGRP:Quốc Tế HD
 udp://@225.1.3.29:30120
-#EXTINF:0,HBO (HD 8Mbps)
-#EXTGRP:Quốc Tế HD
-udp://@225.1.3.10:30120
+
 #EXTINF:0,KBS World (HD 8Mbps)
 #EXTGRP:Quốc Tế HD
 udp://@225.1.3.93:30120
