@@ -300,10 +300,10 @@ udp://@225.1.2.180:30120
 #EXTINF:0,BTV _ TH Bắc Ninh
 #EXTGRP:Địa phương
 udp://@225.1.1.40:30120
-#EXTINF:0,H1 _ TH Hà Nội
+#EXTINF:0,HN1 _ TH Hà Nội
 #EXTGRP:Địa phương
 udp://@225.1.2.186:30120
-#EXTINF:0,H2 _ TH Hà Nội
+#EXTINF:0,HN2 _ TH Hà Nội
 #EXTGRP:Địa phương
 udp://@225.1.1.125:30120
 #EXTINF:0,THD _ TH Hải Dương
