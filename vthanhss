@@ -432,100 +432,39 @@ udp://@225.1.1.104:30120
 #EXTINF:0,THTPCT _ TH TP. Cần Thơ
 #EXTGRP:Địa phương
 udp://@225.1.1.132:30120
-#EXTINF:0,TN1 _ TH Thái Nguyên
-#EXTGRP:Địa phương
-udp://@225.1.2.179:30120
-#EXTINF:0,PTV _ TH Phú Thọ
-#EXTGRP:Địa phương
-udp://@225.1.3.71:30120
-#EXTINF:0,QTV1 _ TH Quảng Ninh
-#EXTGRP:Địa phương
-udp://@225.1.3.32:30120
-#EXTINF:0,HN1 _ TH Hà Nội
-#EXTGRP:Địa phương
-udp://@225.1.3.22:30120
-#EXTINF:0,HN2 _ TH Hà Nội
-#EXTGRP:Địa phương
-udp://@225.1.3.49:30120
-#EXTINF:0,THP _ TH TP. Hải Phòng
-#EXTGRP:Địa phương
-udp://@225.1.3.80:30120
-#EXTINF:0,THP+ _ TH TP. Hải Phòng
-#EXTGRP:Địa phương
-udp://@225.1.3.52:30120
-#EXTINF:0,VP _ TH Vĩnh Phúc
-#EXTGRP:Địa phương
-udp://@225.1.3.43:30120
-#EXTINF:0,DaNangTV1 _ TH TP. Đà Nẵng
-#EXTGRP:Địa phương
-udp://@225.1.3.99:30120
-#EXTINF:0,KTV _ TH Khánh Hòa
-#EXTGRP:Địa phương
-udp://@225.1.3.74:30120
 
-#EXTINF:0,ĐNRTV1 _ TH Đồng Nai
-#EXTGRP:Địa phương
-udp://@225.1.3.60:30120
-#EXTINF:0,ĐNRTV2 _ TH Đồng Nai
-#EXTGRP:Địa phương
-udp://@225.1.3.65:30120
-#EXTINF:0,TTV11 _ TH Tây Ninh
-#EXTGRP:Địa phương
-udp://@225.1.3.56:30120
-#EXTINF:0,THĐT1 _ TH Đồng Tháp
-#EXTGRP:Địa phương
-udp://@225.1.3.24:30120
-#EXTINF:0,THĐT2 Miền Tây
-#EXTGRP:Địa phương
-udp://@225.1.3.77:30120
-#EXTINF:0,THTG _ TH Tiền Giang
-#EXTGRP:Địa phương
-udp://@225.1.3.46:30120
-
-#EXTINF:0,THTV _ TH Trà Vinh
-#EXTGRP:Địa phương
-udp://@225.1.3.44:30120
-#EXTINF:0,KG _ TH Kiên Giang
-#EXTGRP:Địa phương
-udp://@225.1.3.67:30120
-#EXTINF:0,CTV _ TH Cà Mau
-#EXTGRP:Địa phương
-udp://@225.1.3.100:30120
-#EXTINF:0,THTPCT _ TH TP. Cần Thơ
-#EXTGRP:Địa phương
-udp://@225.1.3.69:30120
 #EXTINF:0,STV _ TH Sơn La
-#EXTGRP:Địa phương SD
+#EXTGRP:Địa phương
 udp://@225.1.1.98:30120
 #EXTINF:0,THHN _ TH Hà Nam
-#EXTGRP:Địa phương SD
+#EXTGRP:Địa phương
 udp://@225.1.1.63:30120
 #EXTINF:0,HY _ TH Hưng Yên
-#EXTGRP:Địa phương SD
+#EXTGRP:Địa phương
 udp://@225.1.1.118:30120
 #EXTINF:0,NTV _ TH Nam Định
-#EXTGRP:Địa phương SD
+#EXTGRP:Địa phương
 udp://@225.1.1.120:30120
 #EXTINF:0,TTV _ TH Thanh Hóa
-#EXTGRP:Địa phương SD
+#EXTGRP:Địa phương
 udp://@225.1.2.184:30120
 #EXTINF:0,QBTV _ TH Quảng Bình
-#EXTGRP:Địa phương SD
+#EXTGRP:Địa phương
 udp://@225.1.2.164:30120
 #EXTINF:0,TRT _ TH Thừa Thiên Huế
-#EXTGRP:Địa phương SD
+#EXTGRP:Địa phương
 udp://@225.1.1.161:30120
 #EXTINF:0,BPTV2 _ TH Bình Phước
-#EXTGRP:Địa phương SD
+#EXTGRP:Địa phương
 udp://@225.1.2.38:30120
 #EXTINF:0,BTV6 _ TH Bình Dương
-#EXTGRP:Địa phương SD
+#EXTGRP:Địa phương
 udp://@225.1.1.223:30120
 #EXTINF:0,LA34 _ TH Long An
-#EXTGRP:Địa phương SD
+#EXTGRP:Địa phương
 udp://@225.1.1.162:30120
 #EXTINF:0,STV1 _ TH Sóc Trăng
-#EXTGRP:Địa phương SD
+#EXTGRP:Địa phương
 udp://@225.1.1.159:30120
 
 #-------------------FPT Service-------------------#
