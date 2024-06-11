@@ -27,10 +27,10 @@ udp://@225.1.3.11:30120
 #EXTINF:0,VTV9
 #EXTGRP:VTV
 udp://@225.1.3.9:30120
-#EXTINF:0,VTV5 Tây Nam Bộ
+#EXTINF:0,VTV5 TNB
 #EXTGRP:VTV
 udp://@225.1.3.42:30120
-#EXTINF:0,VTV5 Tây Nguyên
+#EXTINF:0,VTV5 TN
 #EXTGRP:VTV
 udp://@225.1.3.30:30120
 
@@ -141,7 +141,7 @@ udp://@225.1.1.177:30120
 #EXTGRP:SCTV
 udp://@225.1.3.34:30120
 
-#EXTINF:0,HCATV2 YouTV
+#EXTINF:0,YouTV
 #EXTGRP:Other
 udp://@225.1.1.207:30120
 
@@ -287,6 +287,7 @@ udp://@225.1.2.179:30120
 #EXTINF:0,PTV _ TH Phú Thọ
 #EXTGRP:Địa phương
 udp://@225.1.2.165:30120
+udp://@225.1.2.165:30120
 #EXTINF:0,BGTV _ TH Bắc Giang
 #EXTGRP:Địa phương
 udp://@225.1.1.164:30120
@@ -380,12 +381,11 @@ udp://@225.1.1.150:30120
 #EXTINF:0,BTV2 _ TH Bình Dương
 #EXTGRP:Địa phương
 udp://@225.1.1.149:30120
-#EXTINF:0,BTV3 _ TH Bình Dương
-#EXTGRP:Địa phương
-udp://@225.1.2.22:30120
+
 #EXTINF:0,BTV9 B Channel
 #EXTGRP:Địa phương
 udp://@225.1.2.189:30120
+
 #EXTINF:0,ĐNRTV1 _ TH Đồng Nai
 #EXTGRP:Địa phương
 udp://@225.1.1.152:30120
@@ -434,17 +434,17 @@ udp://@225.1.1.104:30120
 udp://@225.1.1.132:30120
 #EXTINF:0,TN1 _ TH Thái Nguyên
 #EXTGRP:Địa phương
-udp://@225.1.3.62:30120
+udp://@225.1.2.179:30120
 #EXTINF:0,PTV _ TH Phú Thọ
 #EXTGRP:Địa phương
 udp://@225.1.3.71:30120
 #EXTINF:0,QTV1 _ TH Quảng Ninh
 #EXTGRP:Địa phương
 udp://@225.1.3.32:30120
-#EXTINF:0,H1 _ TH Hà Nội
+#EXTINF:0,HN1 _ TH Hà Nội
 #EXTGRP:Địa phương
 udp://@225.1.3.22:30120
-#EXTINF:0,H2 _ TH Hà Nội
+#EXTINF:0,HN2 _ TH Hà Nội
 #EXTGRP:Địa phương
 udp://@225.1.3.49:30120
 #EXTINF:0,THP _ TH TP. Hải Phòng
@@ -462,18 +462,7 @@ udp://@225.1.3.99:30120
 #EXTINF:0,KTV _ TH Khánh Hòa
 #EXTGRP:Địa phương
 udp://@225.1.3.74:30120
-#EXTINF:0,BTV1 _ TH Bình Dương
-#EXTGRP:Địa phương
-udp://@225.1.3.64:30120
-#EXTINF:0,BTV2 _ TH Bình Dương
-#EXTGRP:Địa phương
-udp://@225.1.3.82:30120
-#EXTINF:0,BTV3 _ TH Bình Dương
-#EXTGRP:Địa phương
-udp://@225.1.3.96:30120
-#EXTINF:0,BTV9 B Channel
-#EXTGRP:Địa phương
-udp://@225.1.3.58:30120
+
 #EXTINF:0,ĐNRTV1 _ TH Đồng Nai
 #EXTGRP:Địa phương
 udp://@225.1.3.60:30120
