@@ -150,7 +150,7 @@ udp://@225.1.1.207:30120
 udp://@225.1.2.225:30120
 #EXTINF:0,Cinemax
 #EXTGRP:Quốc Tế
-http://xkiwi.sytes.net:5050/rtp/232.84.3.117:10654
+http://tth.vn/cinemax
 #EXTINF:0,HBO
 #EXTGRP:Quốc Tế
 udp://@225.1.1.112:30120
