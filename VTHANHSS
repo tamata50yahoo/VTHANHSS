@@ -457,9 +457,7 @@ udp://@225.1.1.161:30120
 #EXTINF:0,BPTV2 _ TH Bình Phước
 #EXTGRP:Địa phương
 udp://@225.1.2.38:30120
-#EXTINF:0,BTV6 _ TH Bình Dương
-#EXTGRP:Địa phương
-udp://@225.1.1.223:30120
+
 #EXTINF:0,LA34 _ TH Long An
 #EXTGRP:Địa phương
 udp://@225.1.1.162:30120
