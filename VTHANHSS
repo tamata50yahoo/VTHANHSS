@@ -290,7 +290,9 @@ udp://@225.1.2.74:30120
 udp://@225.1.2.91:30120
 #EXTINF:0,Cartoon Network
 #EXTGRP:Quốc Tế
-udp://@225.1.2.231:30120
+udp://@225.1.4.13:30120
+#udp://@225.1.2.231:30120
+
 
 #EXTINF:0,CNA
 #EXTGRP:Quốc Tế
