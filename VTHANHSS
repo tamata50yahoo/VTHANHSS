@@ -2,6 +2,7 @@
 #EXTM3U url-tvg="http://trada.info/epg.xml"
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
+#-------------------SCTV-------------------#
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
 http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8
@@ -87,147 +88,115 @@ http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/n
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 
 
-#EXTINF:0,VTV1
-#EXTGRP:VTV
-udp://@225.1.3.1:30120
-#EXTINF:0,VTV2
-#EXTGRP:VTV
-udp://@225.1.3.5:30120
-#EXTINF:0,VTV3
-#EXTGRP:VTV
-udp://@225.1.3.2:30120
-#EXTINF:0,VTV4
-#EXTGRP:VTV
-udp://@225.1.3.6:30120
-#EXTINF:0,VTV5
-#EXTGRP:VTV
-udp://@225.1.3.4:30120
-#EXTINF:0,VTV6
-#EXTGRP:VTV
-udp://@225.1.3.3:30120
-#EXTINF:0,VTV7
-#EXTGRP:VTV
-udp://@225.1.3.15:30120
-#EXTINF:0,VTV8
-#EXTGRP:VTV
-udp://@225.1.3.11:30120
-#EXTINF:0,VTV9
-#EXTGRP:VTV
-udp://@225.1.3.9:30120
-#EXTINF:0,VTV5 TNB
-#EXTGRP:VTV
-udp://@225.1.3.42:30120
-#EXTINF:0,VTV5 TN
-#EXTGRP:VTV
-udp://@225.1.3.30:30120
+#-------------------VTV-------------------#
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+udp://@225.1.2.249:30120
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+udp://@225.1.2.13:30120
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+udp://@225.1.2.247:30120
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
+udp://@225.1.2.20:30120
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+udp://@225.1.1.131:30120
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
+udp://@225.1.2.245:30120
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
+udp://@225.1.2.96:30120
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
+udp://@225.1.2.166:30120
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
+udp://@225.1.1.128:30120
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 TNB
+udp://@225.1.2.236:30120
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 TN
+udp://@225.1.1.108:30120
 
-#EXTINF:0,ANTV
-#EXTGRP:Kênh TH Thiết yếu
-udp://@225.1.3.23:30120
-#EXTINF:0,Nhân Dân TV
-#EXTGRP:Kênh TH Thiết yếu
-udp://@225.1.3.41:30120
-#EXTINF:0,Quốc Hội
-#EXTGRP:Kênh TH Thiết yếu
-udp://@225.1.3.78:30120
-#EXTINF:0,QPVN
-#EXTGRP:Kênh TH Thiết yếu
-udp://@225.1.3.54:30120
-#EXTINF:0,VNEWS
-#EXTGRP:Kênh TH Thiết yếu
-udp://@225.1.3.61:30120
+#-------------------Thiết yếu-------------------#
+#EXTINF:0 tvg-id="antvhd" group-title="VTV" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
+udp://@225.1.2.169:30120
+#EXTINF:0 tvg-id="nhandan" group-title="VTV" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhan Dan TV
+udp://@225.1.1.91:30120
+#EXTINF:0 tvg-id="quochoi" group-title="VTV" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quoc Hoi
+udp://@225.1.2.148:30120
+#EXTINF:0 tvg-id="qpvnhd" group-title="VTV" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
+udp://@225.1.2.217:30120
+#EXTINF:0 tvg-id="ttxvnhd" group-title="VTV" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS
+udp://@225.1.1.167:30120
 
-
-
-#EXTINF:0,VTC1 HD
-#EXTGRP:VTC
+#-------------------VTC/VOV-------------------#
+#EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
 udp://@225.1.2.254:30120
-#EXTINF:0,VTC2
-#EXTGRP:VTC
+#EXTINF:0 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
 udp://@225.1.2.202:30120
-#EXTINF:0,VTC3 HD
-#EXTGRP:VTC
+#EXTINF:0 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3
 udp://@225.1.2.251:30120
-#EXTINF:0,VTC4 HD
-#EXTGRP:VTC
+#EXTINF:0 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
 udp://@225.1.2.200:30120
-#EXTINF:0,VTC5 HD
-#EXTGRP:VTC
+#EXTINF:0 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
 udp://@225.1.2.199:30120
-#EXTINF:0,VTC6 HD
-#EXTGRP:VTC
+#EXTINF:0 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6
 udp://@225.1.2.198:30120
-#EXTINF:0,VTC7
-#EXTGRP:VTC
+#EXTINF:0 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7
 udp://@225.1.2.197:30120
-#EXTINF:0,VTC8
-#EXTGRP:VTC
+#EXTINF:0 tvg-id="vtc8" group-title="VTC" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
 udp://@225.1.2.196:30120
-#EXTINF:0,VTC9 HD
-#EXTGRP:VTC
+#EXTINF:0 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9
 udp://@225.1.2.195:30120
-#EXTINF:0,VTC10 HD
-#EXTGRP:VTC
+#EXTINF:0 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10
 udp://@225.1.2.194:30120
-#EXTINF:0,VTC11
-#EXTGRP:VTC
+#EXTINF:0 tvg-id="vtc11" group-title="VTC" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
 udp://@225.1.2.193:30120
-#EXTINF:0,VTC14 HD
-#EXTGRP:VTC
+#EXTINF:0 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14
 udp://@225.1.2.88:30120
-#EXTINF:0,VTC16 HD
-#EXTGRP:VTC
+#EXTINF:0 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16
 udp://@225.1.2.190:30120
-#EXTINF:0,VOV TV
-#EXTGRP:VTC
+#EXTINF:0 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
 udp://@225.1.2.171:30120
 
-#EXTINF:0,HTV1
-#EXTGRP:HTVHTVC
+#-------------------HTV/HTVC-------------------#
+#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 udp://@225.1.1.180:30120
-#EXTINF:0,HTV2 Vie Channel
-#EXTGRP:HTVHTVC
-udp://@225.1.3.13:30120
-#EXTINF:0,HTV3
-#EXTGRP:HTVHTVC
+#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel
+udp://@225.1.1.193:30120
+#EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
 udp://@225.1.1.178:30120
-#EXTINF:0,HTV7
-#EXTGRP:HTVHTVC
-udp://@225.1.3.8:30120
-#EXTINF:0,HTV9
-#EXTGRP:HTVHTVC
-udp://@225.1.3.12:30120
-#EXTINF:0,HTV Thể Thao
-#EXTGRP:HTVHTVC
-udp://@225.1.3.25:30120
-#EXTINF:0,HTVC Ca Nhạc
-#EXTGRP:HTVHTVC
+#EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7
+udp://@225.1.1.192:30120
+#EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9
+udp://@225.1.1.190:30120
+#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV The Thao
+udp://@225.1.1.165:30120
+#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhac
 udp://@225.1.1.185:30120
-#EXTINF:0,HTVC Du Lịch và Cuộc Sống
-#EXTGRP:HTVHTVC
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lich
 udp://@225.1.1.166:30120
-#EXTINF:0,HTVC Gia Đình
-#EXTGRP:HTVHTVC
-udp://@225.1.3.84:30120
-#EXTINF:0,HTVC Phim
-#EXTGRP:HTVHTVC
-udp://@225.1.3.68:30120
-#EXTINF:0,HTVC Phụ Nữ
-#EXTGRP:HTVHTVC
-udp://@225.1.3.53:30120
-#EXTINF:0,HTVC Thuần Việt
-#EXTGRP:HTVHTVC
-udp://@225.1.3.28:30120
-#EXTINF:0,HTVC+
-#EXTGRP:HTVHTVC
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đinh
+udp://@225.1.1.170:30120
+#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
+udp://@225.1.1.184:30120
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="hhttps://i.imgur.com/PLliKL6.png",HTVC Phu Nu
+udp://@225.1.1.171:30120
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuan Viet
+udp://@225.1.1.186:30120
+#EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 udp://@225.1.1.181:30120
-#EXTINF:0,HTV Keys
-#EXTGRP:HTVHTVC
+#EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
 udp://@225.1.1.177:30120
+#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel
+udp://@225.1.3.13:30120
 
-#EXTINF:0,YouTV
-#EXTGRP:HTVHTVC
-udp://@225.1.1.207:30120
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 _ TH Vinh Long
+udp://@225.1.3.7:30120
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 _ TH Vinh Long
+udp://@225.1.3.19:30120
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 _ TH Vinh Long
+udp://@225.1.3.16:30120
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 _ TH Vinh Long
+udp://@225.1.3.20:30120
+
+#EXTINF:0 tvg-id="sctv6hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6
+udp://@225.1.4.211:30120
 
 #-------------------------VTVcab---------------------------#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
@@ -266,330 +235,210 @@ https://api.wintv.me/360/188/index.m3u8
 https://api.wintv.me/360/2380/index.m3u8
 
 #-------------------------VTVcab---------------------------#
-
-#EXTINF:0,AXN
-#EXTGRP:Quốc Tế
-udp://@225.1.2.225:30120
-#EXTINF:0,Cinemax
-#EXTGRP:Quốc Tế
-https://hqth.me/cinemaxkb
-#EXTINF:0,HBO
-#EXTGRP:Quốc Tế
-udp://@225.1.1.112:30120
-#EXTINF:0,HBO1
-#EXTGRP:Quốc Tế
-udp://@225.1.2.233:30120
-
-#EXTINF:0,ABC Australia
-#EXTGRP:Quốc Tế
+#-------------------Quốc tế-------------------#
+#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc tế" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia
 udp://@225.1.2.21:30120
-#EXTINF:0,Animal Planet
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="animalhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
 udp://@225.1.1.231:30120
-#EXTINF:0,Animax
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
 udp://@225.1.1.135:30120
-#EXTINF:0,Asian Food Network
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="afnhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
 udp://@225.1.1.198:30120
-
-#EXTINF:0,BBC CbeeBies
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
+udp://@225.1.2.225:30120
+#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies
 udp://@225.1.1.134:30120
-#EXTINF:0,BBC Earth
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="bbcearth" group-title="Quốc tế" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
 udp://@225.1.2.24:30120
-#EXTINF:0,BBC Lifestyle
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc tế" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle
 udp://@225.1.2.52:30120
-#EXTINF:0,BBC News
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
 udp://@225.1.2.74:30120
-#EXTINF:0,Bloomberg
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="bloomberg" group-title="Quốc tế" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg
 udp://@225.1.2.91:30120
-#EXTINF:0,Cartoon Network
-#EXTGRP:Quốc Tế
-udp://@225.1.4.13:30120
-#udp://@225.1.2.231:30120
-
-
-#EXTINF:0,CNA
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
+udp://@225.1.2.231:30120
+#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA
 udp://@225.1.1.202:30120
-#EXTINF:0,CNN
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN
 udp://@225.1.1.242:30120
-#EXTINF:0,Discovery Asia
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="davinci" group-title="Quốc tế" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci
+udp://@225.1.1.197:30120
+#EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
 udp://@225.1.2.223:30120
-#EXTINF:0,Discovery Channel
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="discoveryhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
 udp://@225.1.1.238:30120
-#EXTINF:0,Dreamworks
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="dreamworks" group-title="Quốc tế" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
 udp://@225.1.1.136:30120
-#EXTINF:0,DW (English)
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="dw" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English)
 udp://@225.1.1.46:30120
-#EXTINF:0,Fashion TV
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV
 udp://@225.1.2.227:30120
-#EXTINF:0,France 24 (English)
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="france24eng" group-title="Quốc tế" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English)
 udp://@225.1.2.211:30120
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
+udp://@225.1.1.112:30120
 
-#EXTINF:0,KBS World
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
 udp://@225.1.1.196:30120
-#EXTINF:0,NHK World Japan
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="nhkworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan
 udp://@225.1.1.47:30120
-#EXTINF:0,Outdoor Channel
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="outdoorhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel
 udp://@225.1.2.215:30120
-#EXTINF:0,TLC
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="tlchd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC
 udp://@225.1.1.236:30120
-#EXTINF:0,TV5 Monde Asie
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc tế" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
 udp://@225.1.1.200:30120
-#EXTINF:0,WBTV
-#EXTGRP:Quốc Tế
+#EXTINF:0 tvg-id="warnertvhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
 udp://@225.1.1.139:30120
-#udp://@225.1.4.14:30120
+#EXTINF:0 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
+udp://@225.1.1.201:30120
+#EXTINF:0 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
+udp://@225.1.1.227:30120
 
-#EXTINF:0,Love Nature 4k
-#EXTGRP:Quốc Tế
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-
-#EXTINF:0,THVL1 _ TH Vĩnh Long
-#EXTGRP:Địa phương
-udp://@225.1.3.7:30120
-#EXTINF:0,THVL2 _ TH Vĩnh Long
-#EXTGRP:Địa phương
-udp://@225.1.3.19:30120
-#EXTINF:0,THVL3 _ TH Vĩnh Long
-#EXTGRP:Địa phương
-udp://@225.1.3.16:30120
-#EXTINF:0,THVL4 _ TH Vĩnh Long
-#EXTGRP:Địa phương
-udp://@225.1.3.20:30120
-
-#EXTINF:0,THLC _ TH Lào Cai
-#EXTGRP:Địa phương
+#-------------------Địa phương-------------------#
+#EXTINF:0 tvg-id="laocai" group-title="Địa phương" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai
 udp://@225.1.1.119:30120
-#EXTINF:0,YTV _ TH Yên Bái
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="yenbai" group-title="Địa phương" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV _ TH Yên Bái
 udp://@225.1.1.39:30120
-#EXTINF:0,ĐTV _ TH Điện Biên
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="dienbien" group-title="Địa phương" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên
 udp://@225.1.1.74:30120
-#EXTINF:0,HBTV _ TH Hòa Bình
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="hoabinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV _ TH Hòa Bình
 udp://@225.1.2.168:30120
-#EXTINF:0,LTV _ TH Lai Châu
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="laichau" group-title="Địa phương" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV _ TH Lai Châu
 udp://@225.1.2.36:30120
-#EXTINF:0,HGTV _ TH Hà Giang
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="hagiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang
 udp://@225.1.1.62:30120
-#EXTINF:0,CRTV _ TH Cao Bằng
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV _ TH Cao Bằng
 udp://@225.1.1.102:30120
-#EXTINF:0,TBK _ TH Bắc Kạn
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="backan" group-title="Địa phương" tvg-logo="https://i.imgur.com/msjevyp.png",TBK _ TH Bắc Kạn
 udp://@225.1.1.126:30120
-#EXTINF:0,LSTV _ TH Lạng Sơn
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="langson" group-title="Địa phương" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV _ TH Lạng Sơn
 udp://@225.1.1.160:30120
-#EXTINF:0,TTV _ TH Tuyên Quang
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH Tuyên Quang
 udp://@225.1.2.188:30120
-#EXTINF:0,TN1 _ TH Thái Nguyên
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 _ TH Thái Nguyên
 udp://@225.1.2.179:30120
-#EXTINF:0,PTV _ TH Phú Thọ
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="phutho" group-title="Địa phương" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV _ TH Phú Thọ
 udp://@225.1.2.165:30120
-udp://@225.1.2.165:30120
-#EXTINF:0,BGTV _ TH Bắc Giang
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="bacgiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang
 udp://@225.1.1.164:30120
-#EXTINF:0,QTV1 _ TH Quảng Ninh
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 _ TH Quảng Ninh
 udp://@225.1.2.181:30120
-#EXTINF:0,QTV3 _ TH Quảng Ninh
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 _ TH Quảng Ninh
 udp://@225.1.2.180:30120
-#EXTINF:0,BTV _ TH Bắc Ninh
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh
 udp://@225.1.1.40:30120
-#EXTINF:0,HN1 _ TH Hà Nội
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 _ TH Hà Nội
 udp://@225.1.2.186:30120
-#EXTINF:0,HN2 _ TH Hà Nội
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 _ TH Hà Nội
 udp://@225.1.1.125:30120
-#EXTINF:0,THD _ TH Hải Dương
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="haiduong" group-title="Địa phương" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Dương
 udp://@225.1.1.158:30120
-#EXTINF:0,THP _ TH TP. Hải Phòng
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://i.imgur.com/StFk4PA.png",THP _ TH TP. Hải Phòng
 udp://@225.1.1.44:30120
-#EXTINF:0,THP+ _ TH TP. Hải Phòng
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ _ TH TP. Hải Phòng
 udp://@225.1.1.113:30120
-#EXTINF:0,NTV _ TH Ninh Bình
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV _ TH Ninh Bình
 udp://@225.1.2.185:30120
-#EXTINF:0,TBTV _ TH Thái Bình
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="thaibinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV _ TH Thái Bình
 udp://@225.1.1.99:30120
-#EXTINF:0,VP _ TH Vĩnh Phúc
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="vinhphuc" group-title="Địa phương" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP _ TH Vĩnh Phúc
 udp://@225.1.2.99:30120
-#EXTINF:0,NTV _ TH Nghệ An
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="nghean" group-title="Địa phương" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV _ TH Nghệ An
 udp://@225.1.2.183:30120
-#EXTINF:0,HTTV _ TH Hà Tĩnh
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV _ TH Hà Tĩnh
 udp://@225.1.1.75:30120
-#EXTINF:0,QRTV _ TH Quảng Trị
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="quangtri" group-title="Địa phương" tvg-logo="https://i.imgur.com/yIHs2sI.png",QRTV _ TH Quảng Trị
 udp://@225.1.1.117:30120
-#EXTINF:0,DaNangTV1 _ TH TP. Đà Nẵng
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 _ TH TP. Đà Nẵng
 udp://@225.1.1.147:30120
-#EXTINF:0,DaNangTV2 _ TH TP. Đà Nẵng
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 _ TH TP. Đà Nẵng
 udp://@225.1.1.146:30120
-#EXTINF:0,QRT _ TH Quảng Nam
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="quangnam" group-title="Địa phương" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT _ TH Quảng Nam
 udp://@225.1.2.50:30120
-#EXTINF:0,PTQ _ TH Quảng Ngãi
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="quangngai" group-title="Địa phương" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi
 udp://@225.1.2.174:30120
-#EXTINF:0,BTV _ TH Bình Định
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="binhdinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Định
 udp://@225.1.1.145:30120
-#EXTINF:0,PTP _ TH Phú Yên
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="phuyen" group-title="Địa phương" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP _ TH Phú Yên
 udp://@225.1.2.58:30120
-#EXTINF:0,KTV _ TH Khánh Hòa
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV _ TH Khánh Hòa
 udp://@225.1.1.133:30120
-#EXTINF:0,NTV _ TH Ninh Thuận
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="ninhthuan" group-title="Địa phương" tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV _ TH Ninh Thuận
 udp://@225.1.2.178:30120
-#EXTINF:0,BTV _ TH Bình Thuận
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="binhthuan" group-title="Địa phương" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV _ TH Bình Thuận
 udp://@225.1.1.124:30120
-#EXTINF:0,KRT _ TH Kon Tum
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="kontum" group-title="Địa phương" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum
 udp://@225.1.1.36:30120
-#EXTINF:0,THGL _ TH Gia Lai
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL _ TH Gia Lai
 udp://@225.1.2.176:30120
-#EXTINF:0,DRT _ TH Đắk Lắk
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT _ TH Đắk Lắk
 udp://@225.1.1.64:30120
-#EXTINF:0,LTV _ TH Lâm Đồng
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="lamdong" group-title="Địa phương" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV _ TH Lâm Đồng
 udp://@225.1.2.177:30120
-#EXTINF:0,BPTV1 _ TH Bình Phước
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa phương" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 _ TH Bình Phước
 udp://@225.1.2.23:30120
-#EXTINF:0,BTV1 _ TH Bình Dương
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="binhphuoc2" group-title="Địa phương" tvg-logo="https://i.imgur.com/CyhvaPs.png",BPTV2 _ TH Bình Phước
+udp://@225.1.2.38:30120
+#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 _ TH Bình Dương
 udp://@225.1.1.150:30120
-#EXTINF:0,BTV2 _ TH Bình Dương
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="binhduong2" group-title="Địa phương" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 _ TH Bình Dương
 udp://@225.1.1.149:30120
-
-#EXTINF:0,BTV9 B Channel
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel
 udp://@225.1.2.189:30120
-
-#EXTINF:0,ĐNRTV1 _ TH Đồng Nai
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 _ TH Đồng Nai
 udp://@225.1.1.152:30120
-#EXTINF:0,ĐNRTV2 _ TH Đồng Nai
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 _ TH Đồng Nai
 udp://@225.1.1.151:30120
-#EXTINF:0,TTV11 _ TH Tây Ninh
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="tayninh" group-title="Địa phương" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh
 udp://@225.1.1.130:30120
-#EXTINF:0,BRT _ TH Bà Rịa Vũng Tàu
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="vungtau" group-title="Địa phương" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT _ TH Bà Rịa Vũng Tàu
 udp://@225.1.2.175:30120
-#EXTINF:0,THĐT1 _ TH Đồng Tháp
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp
 udp://@225.1.1.163:30120
-#EXTINF:0,THĐT2 Miền Tây
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="" group-title="Địa phương" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây
 udp://@225.1.1.210:30120
-#EXTINF:0,THTG _ TH Tiền Giang
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG _ TH Tiền Giang
 udp://@225.1.2.170:30120
-#EXTINF:0,ATV _ TH An Giang
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="angiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV _ TH An Giang
 udp://@225.1.2.173:30120
-#EXTINF:0,THBT _ TH Bến Tre
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="bentre" group-title="Địa phương" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT _ TH Bến Tre
 udp://@225.1.1.156:30120
 
-#EXTINF:0,THTV _ TH Trà Vinh
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="travinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV _ TH Trà Vinh
 udp://@225.1.2.172:30120
-#EXTINF:0,HGTV _ TH Hậu Giang
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="haugiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV _ TH Hậu Giang
 udp://@225.1.1.157:30120
-#EXTINF:0,KG _ TH Kiên Giang
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="kiengiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang
 udp://@225.1.2.182:30120
-#EXTINF:0,BLTV _ TH Bạc Liêu
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="baclieu" group-title="Địa phương" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV _ TH Bạc Liêu
 udp://@225.1.1.61:30120
-#EXTINF:0,CTV _ TH Cà Mau
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="camau" group-title="Địa phương" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV _ TH Cà Mau
 udp://@225.1.1.104:30120
-#EXTINF:0,THTPCT _ TH TP. Cần Thơ
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="cantho" group-title="Địa phương" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT _ TH TP. Cần Thơ
 udp://@225.1.1.132:30120
 
-#EXTINF:0,STV _ TH Sơn La
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="sonla" group-title="Địa phương" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Sơn La
 udp://@225.1.1.98:30120
-#EXTINF:0,THHN _ TH Hà Nam
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="hanam" group-title="Địa phương" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH Hà Nam
 udp://@225.1.1.63:30120
-#EXTINF:0,HY _ TH Hưng Yên
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="hungyen" group-title="Địa phương" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH Hưng Yên
 udp://@225.1.1.118:30120
-#EXTINF:0,NTV _ TH Nam Định
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="namdinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Nam Định
 udp://@225.1.1.120:30120
-#EXTINF:0,TTV _ TH Thanh Hóa
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa
 udp://@225.1.2.184:30120
-#EXTINF:0,QBTV _ TH Quảng Bình
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="quangbinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV _ TH Quảng Bình
 udp://@225.1.2.164:30120
-#EXTINF:0,TRT _ TH Thừa Thiên Huế
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT _ TH Thừa Thiên Huế
 udp://@225.1.1.161:30120
-#EXTINF:0,BPTV2 _ TH Bình Phước
-#EXTGRP:Địa phương
-udp://@225.1.2.38:30120
-
-#EXTINF:0,LA34 _ TH Long An
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="longan" group-title="Địa phương" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
 udp://@225.1.1.162:30120
-#EXTINF:0,STV1 _ TH Sóc Trăng
-#EXTGRP:Địa phương
+#EXTINF:0 tvg-id="soctrang" group-title="Địa phương" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH Sóc Trăng
 udp://@225.1.1.159:30120
+
+
 
 #-------------------FPT Service-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình 1
