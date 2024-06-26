@@ -126,7 +126,8 @@ udp://@225.1.1.167:30120
 
 #-------------------VTC/VOV-------------------#
 #EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
-udp://@225.1.2.254:30120
+https://api.wintv.me/360/16/index.m3u8
+#udp://@225.1.2.254:30120
 #EXTINF:0 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
 udp://@225.1.2.202:30120
 #EXTINF:0 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3
