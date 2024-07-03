@@ -166,7 +166,7 @@ udp://@225.1.3.16:30120
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 _ TH Vinh Long
 udp://@225.1.3.20:30120
 
-#EXTINF:0 tvg-id="sctv6hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6
+#EXTINF:0 tvg-id="sctv6hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pSIvTkZ.png", SCTV6
 udp://@225.1.4.211:30120
 
 #-------------------VTC/VOV-------------------#
