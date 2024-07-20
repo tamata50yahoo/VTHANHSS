@@ -247,7 +247,7 @@ https://api.wintv.me/vtvcab21/index.m3u8
 https://api.wintv.me/vtvcab22/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON Golf
-https://api.wintv.me/vtvcab23/index.m3u8
+https://api.wintv.me/vtvcab23/index.m3u8|User-Agent="Mozilla/5.0"
 
 #-------------------Quốc tế-------------------#
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc tế" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia
