@@ -4,7 +4,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #EXTM3U url-tvg="http://192.168.1.245:9981/xmltv/channels"
 
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.12.3
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.12.3 Mozilla/5.0
 
 #-------------------SCTV-------------------#
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1 HD
@@ -247,7 +247,7 @@ https://api.wintv.me/vtvcab21/index.m3u8
 https://api.wintv.me/vtvcab22/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON Golf
-https://api.wintv.me/vtvcab23/index.m3u8|User-Agent="Mozilla/5.0"
+https://api.wintv.me/vtvcab23/index.m3u8
 
 #-------------------Quốc tế-------------------#
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc tế" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia
