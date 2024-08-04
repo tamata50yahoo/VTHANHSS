@@ -194,7 +194,7 @@ udp://@225.1.2.171:30120
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
 http://wintv.fun/360/180/index.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
-http://wintv.fun/360/175/index.m3u8|User-Agent=Mozilla/5.0
+https://api.wintv.me/360/180/index.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
 http://wintv.fun/360/181/index.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel
