@@ -254,7 +254,66 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTV Cab"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650320416/f57f4fd63788_480_270.png",VTVcab 23 - Golf Channel
 https://tv.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh
 
+#-------------------Quốc tế-------------------#
+#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc tế" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia
+udp://@225.1.3.91:30120
+#EXTINF:0 tvg-id="animalhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
+udp://@225.1.1.231:30120
+#EXTINF:0 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
+udp://@225.1.1.135:30120
+#EXTINF:0 tvg-id="afnhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
+udp://@225.1.1.198:30120
+#EXTINF:0 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
+udp://@225.1.2.225:30120
+#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies
+udp://@225.1.1.134:30120
+#EXTINF:0 tvg-id="bbcearth" group-title="Quốc tế" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
+udp://@225.1.2.24:30120
+#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc tế" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle
+udp://@225.1.2.52:30120
+#EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
+udp://@225.1.2.74:30120
+#EXTINF:0 tvg-id="bloomberg" group-title="Quốc tế" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg
+udp://@225.1.2.91:30120
+#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
+udp://@225.1.2.231:30120
+#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA
+udp://@225.1.1.202:30120
+#EXTINF:0 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN
+udp://@225.1.1.242:30120
+#EXTINF:0 tvg-id="davinci" group-title="Quốc tế" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci
+udp://@225.1.1.197:30120
+#EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
+udp://@225.1.2.223:30120
+#EXTINF:0 tvg-id="discoveryhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
+udp://@225.1.1.238:30120
+#EXTINF:0 tvg-id="dreamworks" group-title="Quốc tế" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
+udp://@225.1.1.136:30120
+#EXTINF:0 tvg-id="dw" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English)
+udp://@225.1.1.46:30120
+#EXTINF:0 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV
+udp://@225.1.2.227:30120
+#EXTINF:0 tvg-id="france24eng" group-title="Quốc tế" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English)
+udp://@225.1.2.211:30120
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
+udp://@225.1.1.112:30120
 
+#EXTINF:0 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
+udp://@225.1.1.196:30120
+#EXTINF:0 tvg-id="nhkworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan
+udp://@225.1.1.47:30120
+#EXTINF:0 tvg-id="outdoorhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel
+udp://@225.1.2.215:30120
+#EXTINF:0 tvg-id="tlchd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC
+udp://@225.1.1.236:30120
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc tế" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
+udp://@225.1.1.200:30120
+#EXTINF:0 tvg-id="warnertvhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
+udp://@225.1.1.139:30120
+#EXTINF:0 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
+udp://@225.1.1.201:30120
+#EXTINF:0 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
+udp://@225.1.1.227:30120
 
 #-------------------Địa phương-------------------#
 #EXTINF:0 tvg-id="laocai" group-title="Địa phương" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai
