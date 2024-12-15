@@ -70,19 +70,22 @@ http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/n
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV HD Phim Tổng Hợp
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 
-#EXTINF:-1  group-title="SCTV" tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png", Fight Network
+#EXTINF:-1  group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png", Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1  group-title="SCTV" tvg-ID="" tvg-logo="https://i.imgur.com/g0X8u8w.png", WWE
+#EXTINF:-1  group-title="SCTV" tvg-logo="https://i.imgur.com/g0X8u8w.png", WWE
 https://7pal.short.gy/wwenw
 
-#EXTINF:-1 group-title=SCTV" tvg-logo="https://i.imgur.com/2xuAujA.png", K+ ACTION
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/2xuAujA.png",K+ ACTION
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/916837844?profile=pass
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/6Dppunp.png", K+ CINE
+
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/6Dppunp.png",K+ CINE
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1946352900?profile=pass
-#EXTINF:-1 group-title=SCTV" tvg-logo="https://i.imgur.com/VQLshDa.png", K+ SPORT1
+
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/VQLshDa.png",K+ SPORT1
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/556914677?profile=pass
-#EXTINF:-1 group-title=SCTV" tvg-logo="https://i.imgur.com/K6uMCTH.png", K+ SPORT2
+
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/K6uMCTH.png",K+ SPORT2
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/541337809?profile=pass
 
 
