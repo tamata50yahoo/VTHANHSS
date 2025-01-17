@@ -44,7 +44,8 @@ http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/n
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15 HD
-http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
+http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.22:11920
+#http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
 
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16 HD
 http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8
@@ -316,6 +317,9 @@ udp://@225.1.2.227:30120
 udp://@225.1.2.211:30120
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 udp://@225.1.1.112:30120
+
+#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
+http://nh0zsieuquay.giize.com:9999/rtp/232.84.1.20:8094
 
 #EXTINF:0 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
 udp://@225.1.1.196:30120
