@@ -4,7 +4,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
 
-#EXTVLCOPT:http-user-agent=ExoPlayerLib Mozilla/5.0 ReactNativeVideo/3.4.4
+#EXTVLCOPT:http-user-agent=ExoPlayerLib Mozilla ReactNativeVideo LibVLC VLC
 
 #-------------------SCTV-------------------#
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1 HD
@@ -227,6 +227,11 @@ http://192.167.2.20:9981/stream/channelid/1353145405?profile=pass
 https://tv.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh
 
 #-------------------Quốc tế-------------------#
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/fzFu41R.png",CINEMAX
+udp://@225.1.2.86:30120
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
+udp://@225.1.1.112:30120
+
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc tế" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia
 udp://@225.1.3.91:30120
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
@@ -266,11 +271,7 @@ udp://@225.1.1.46:30120
 udp://@225.1.2.227:30120
 #EXTINF:0 tvg-id="france24eng" group-title="Quốc tế" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English)
 udp://@225.1.2.211:30120
-#EXTINF:0 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-udp://@225.1.1.112:30120
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/fzFu41R.png",CINEMAX
-udp://@225.1.2.86:30120
 
 #EXTINF:0 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
 udp://@225.1.1.196:30120
