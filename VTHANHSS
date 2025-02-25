@@ -38,16 +38,16 @@ http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/n
 http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv13/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14 HD
-http://192.167.2.20:9981/stream/channelid/599026741?profile=pass
+http://192.167.2.32:9981/stream/channelid/599026741?profile=pass
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15 HD
-http://192.167.2.20:9981/stream/channelid/393687470?profile=pass
+http://192.167.2.32:9981/stream/channelid/393687470?profile=pass
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16 HD
 http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17 HD
-http://192.167.2.20:9981/stream/channelid/1119184175?profile=pass
+http://192.167.2.32:9981/stream/channelid/1119184175?profile=pass
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18 HD
 http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv18/index.m3u8
@@ -62,7 +62,7 @@ http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/n
 http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv21/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22 HD
-http://192.167.2.20:9981/stream/channelid/1110198633?profile=pass
+http://192.167.2.32:9981/stream/channelid/1110198633?profile=pass
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV HD Phim Tổng Hợp
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
@@ -164,7 +164,7 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh
 https://tv.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="onsports" group-title="VTVCab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD
-http://192.167.2.20:9981/stream/channelid/1796183541?profile=pass
+http://192.167.2.32:9981/stream/channelid/1796183541?profile=pass
 
 #EXTINF:-1 tvg-id="onmovies" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2023/02/16/16/1676540062912/f21d4df5b545_480_270.png",Vtvcab 4 – On Movies
 https://tv.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh
@@ -173,7 +173,7 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh
 https://tv.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVCab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+
-http://192.167.2.20:9981/stream/channelid/563851311?profile=pass
+http://192.167.2.32:9981/stream/channelid/563851311?profile=pass
 
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/08/06/23/1722961565788/ba3ae8e7865d_480_270.png",O2TV
 https://tv.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh
@@ -196,13 +196,13 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh
 https://tv.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVCab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD
-http://192.167.2.20:9981/stream/channelid/724972189?profile=pass
+http://192.167.2.32:9981/stream/channelid/724972189?profile=pass
 
 #EXTINF:-1 tvg-id="ontrending" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2023/07/19/16/1689759248732/ebe66c03d7f6_480_270.png",Vtvcab17 – Trending TV
 https://tv.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vonsportsnews" group-title="VTVCab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News
-http://192.167.2.20:9981/stream/channelid/1613381137?profile=pass
+http://192.167.2.32:9981/stream/channelid/1613381137?profile=pass
 
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/01/03/07/1704241415128/050934936855_480_270.png",VTVcab19 – Vie Dramas
 https://tv.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh
@@ -214,7 +214,7 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh
 https://tv.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="onlife" group-title="VTVCab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
-http://192.167.2.20:9981/stream/channelid/1353145405?profile=pass
+http://192.167.2.32:9981/stream/channelid/1353145405?profile=pass
 
 #EXTINF:-1 tvg-id="ongolf" group-title="VTV Cab" tvg-logo="https://i.imgur.com/BGF2I58.png",VTVcab 23 - Golf Channel
 https://tv.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh
