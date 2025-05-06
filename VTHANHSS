@@ -4,49 +4,49 @@
 
 
 #-------------------SCTV-------------------#
-#EXTINF:-1 tvg-logo="https://i.imgur.com/imhFxSG.png" group-title="SCTV" tvg-chno="16",SCTV1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/imhFxSG.png" group-title="SCTV" tvg-chno="16",SCTV1 HD
 http://192.167.2.32:9981/stream/channelid/2121010090?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UpBZOaH.png" group-title="SCTV" tvg-chno="17",SCTV2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpBZOaH.png" group-title="SCTV" tvg-chno="17",SCTV2 HD
 http://192.167.2.32:9981/stream/channelid/385573505?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wZrGAtH.png" group-title="SCTV" tvg-chno="18",SCTV3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wZrGAtH.png" group-title="SCTV" tvg-chno="18",SCTV3 HD
 http://192.167.2.32:9981/stream/channelid/1509996924?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntSnAMJ.png" group-title="SCTV" tvg-chno="19",SCTV4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntSnAMJ.png" group-title="SCTV" tvg-chno="19",SCTV4 HD
 http://192.167.2.32:9981/stream/channelid/1328352821?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pSIvTkZ.png" group-title="SCTV" tvg-chno="20",SCTV6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pSIvTkZ.png" group-title="SCTV" tvg-chno="20",SCTV6 HD
 http://192.167.2.32:9981/stream/channelid/504666170?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EdjXUUb.png" group-title="SCTV" tvg-chno="21",SCTV7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdjXUUb.png" group-title="SCTV" tvg-chno="21",SCTV7 HD
 http://192.167.2.32:9981/stream/channelid/832333469?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NULoCoA.png" group-title="SCTV" tvg-chno="22",SCTV8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NULoCoA.png" group-title="SCTV" tvg-chno="22",SCTV8 HD
 http://192.167.2.32:9981/stream/channelid/1813074439?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6dvyvea.png" group-title="SCTV" tvg-chno="23",SCTV9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6dvyvea.png" group-title="SCTV" tvg-chno="23",SCTV9 HD
 http://192.167.2.32:9981/stream/channelid/361721475?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AP2o4bW.png" group-title="SCTV" tvg-chno="24",SCTV11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AP2o4bW.png" group-title="SCTV" tvg-chno="24",SCTV11 HD
 http://192.167.2.32:9981/stream/channelid/2071181580?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5nrSZd8.png" group-title="SCTV" tvg-chno="25",SCTV12 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5nrSZd8.png" group-title="SCTV" tvg-chno="25",SCTV12 HD
 http://192.167.2.32:9981/stream/channelid/1829302506?profile=pass
 
-#EXTINF:-1 tvg-id="SCTV13" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/13_29828548.jpg",SCTV13
+#EXTINF:-1 tvg-id="SCTV13" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/13_29828548.jpg",SCTV13 HD
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1yNMyEh.png" group-title="SCTV" tvg-chno="27",SCTV14
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1yNMyEh.png" group-title="SCTV" tvg-chno="27",SCTV14 HD
 http://192.167.2.32:9981/stream/channelid/599026741?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EPwjrlB.png" group-title="SCTV" tvg-chno="28",SCTV15
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EPwjrlB.png" group-title="SCTV" tvg-chno="28",SCTV15 HD
 http://192.167.2.32:9981/stream/channelid/393687470?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4ZROQG.png" group-title="SCTV" tvg-chno="29",SCTV16 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b4ZROQG.png" group-title="SCTV" tvg-chno="29",SCTV16 HD
 http://192.167.2.32:9981/stream/channelid/2010576283?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ghjy4HY.png" group-title="SCTV" tvg-chno="30",SCTV17
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ghjy4HY.png" group-title="SCTV" tvg-chno="30",SCTV17 HD
 http://192.167.2.32:9981/stream/channelid/1119184175?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Eg4T4.png" group-title="SCTV" tvg-chno="31",SCTV18
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Eg4T4.png" group-title="SCTV" tvg-chno="31",SCTV18 HD
 http://192.167.2.32:9981/stream/channelid/208350287?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s4vfvNb.png" group-title="SCTV" tvg-chno="32",SCTV19
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s4vfvNb.png" group-title="SCTV" tvg-chno="32",SCTV19 HD
 http://192.167.2.32:9981/stream/channelid/2050743163?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zwfqboB.png" group-title="SCTV" tvg-chno="33",SCTV20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zwfqboB.png" group-title="SCTV" tvg-chno="33",SCTV20 HD
 http://192.167.2.32:9981/stream/channelid/63619105?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aHKybQW.png" group-title="SCTV" tvg-chno="34",SCTV21
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aHKybQW.png" group-title="SCTV" tvg-chno="34",SCTV21 HD
 http://192.167.2.32:9981/stream/channelid/144497711?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O0HdUpB.png" group-title="SCTV" tvg-chno="35",SCTV22
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O0HdUpB.png" group-title="SCTV" tvg-chno="35",SCTV22 HD
 http://192.167.2.32:9981/stream/channelid/1110198633?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VzZYa4n.png" group-title="SCTV" tvg-chno="36",SCTV Phim Tổng Hợp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VzZYa4n.png" group-title="SCTV" tvg-chno="36",SCTV HD Phim Tổng Hợp
 http://192.167.2.32:9981/stream/channelid/1621847729?profile=pass
 
 #EXTINF:-1  group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png", Fight Network
@@ -139,11 +139,11 @@ udp://@225.1.4.211:30120
 
 
 #-------------------------VTVcab---------------------------#
-#EXTINF:-1 tvg-logo="https://i.imgur.com/moYwxwf.png" group-title="VTVCab" tvg-chno="56",ON Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/moYwxwf.png" group-title="VTVCab" tvg-chno="56",ON Sports HD
 http://192.167.2.32:9981/stream/channelid/1796183541?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cFs8OVb.png" group-title="VTVCab" tvg-chno="57",ON Sports+
 http://192.167.2.32:9981/stream/channelid/563851311?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAxiIfP.png" group-title="VTVCab" tvg-chno="58",ON Football
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAxiIfP.png" group-title="VTVCab" tvg-chno="58",ON Football HD
 http://192.167.2.32:9981/stream/channelid/724972189?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpRXpJg.png" group-title="VTVCab" tvg-chno="59",ON Sports News
 http://192.167.2.32:9981/stream/channelid/1613381137?profile=pass
@@ -155,7 +155,7 @@ http://192.167.2.32:9981/stream/channelid/545268219?profile=pass
 http://192.167.2.32:9981/stream/channelid/273378696?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87JEXEQ.png" group-title="VTVCab" tvg-chno="63",ON EChannel
 http://192.167.2.32:9981/stream/channelid/1611902705?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jp57P0v.png" group-title="VTVCab" tvg-chno="64",ON Info
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jp57P0v.png" group-title="VTVCab" tvg-chno="64",ON Info TV
 http://192.167.2.32:9981/stream/channelid/1680555753?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y2SzhHG.png" group-title="VTVCab" tvg-chno="65",ON Kids
 http://192.167.2.32:9981/stream/channelid/1335330820?profile=pass
@@ -195,7 +195,7 @@ udp://@225.1.1.231:30120
 udp://@225.1.1.198:30120
 #EXTINF:0 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 udp://@225.1.2.225:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies
+#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/0t99xJZ.png",CbeeBies
 udp://@225.1.1.134:30120
 #EXTINF:0 tvg-id="bbcearth" group-title="Quốc tế" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
 udp://@225.1.2.24:30120
@@ -257,7 +257,7 @@ udp://@225.1.2.168:30120
 udp://@225.1.2.36:30120
 #EXTINF:0 tvg-id="hagiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang
 udp://@225.1.1.62:30120
-#EXTINF:0 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV _ TH Cao Bằng
+#EXTINF:0 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://i.imgur.com/YCrYT2p.png",Cao Bằng
 udp://@225.1.1.102:30120
 #EXTINF:0 tvg-id="backan" group-title="Địa phương" tvg-logo="https://i.imgur.com/msjevyp.png",TBK _ TH Bắc Kạn
 udp://@225.1.1.126:30120
