@@ -3,68 +3,8 @@
 #EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml"
 #EXTM3U url-tvg="http://192.167.2.32:9981/xmltv/channels"
 
-
-#-------------------SCTV-------------------#
-#EXTINF:-1 logo="https://i.imgur.com/imhFxSG.png" tvg-id="b169ab09170017f4ab7f2ddafb9bc666" group-title="SCTV" tvg-chno="15",SCTV1 HD
-http://192.167.2.32:9981/stream/channelid/162228657?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/UpBZOaH.png" tvg-id="869b7c3d2ad49194b2054bf926d633ce" group-title="SCTV" tvg-chno="16",SCTV2 HD
-http://192.167.2.32:9981/stream/channelid/1031576454?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/wZrGAtH.png" tvg-id="adfc3e82e692c7895a46ba755cda8fd9" group-title="SCTV" tvg-chno="17",SCTV3 HD
-http://192.167.2.32:9981/stream/channelid/37682349?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/ntSnAMJ.png" tvg-id="4566da6bec99a8eda80c07364cbba667" group-title="SCTV" tvg-chno="18",SCTV4 HD
-http://192.167.2.32:9981/stream/channelid/1809475141?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/pSIvTkZ.png" tvg-id="e222c2d529a64a66cee5d6626276ca76" group-title="SCTV" tvg-chno="19",SCTV6 HD
-http://192.167.2.32:9981/stream/channelid/1438786274?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/EdjXUUb.png" tvg-id="bd8678b0dde686f54a9cf1ea7d5cebc3" group-title="SCTV" tvg-chno="20",SCTV7 HD
-http://192.167.2.32:9981/stream/channelid/813205181?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/NULoCoA.png" tvg-id="93bc0538aa1d6c452dacdfff5db12eca" group-title="SCTV" tvg-chno="21",SCTV8 HD
-http://192.167.2.32:9981/stream/channelid/939900051?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/6dvyvea.png" tvg-id="d159ac6a8d9f1dd86eeee9e3202cf214" group-title="SCTV" tvg-chno="22",SCTV9 HD
-http://192.167.2.32:9981/stream/channelid/1789680081?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/AP2o4bW.png" tvg-id="6d143bce0dc7632c1372d08baf9dbd65" group-title="SCTV" tvg-chno="23",SCTV11 HD
-http://192.167.2.32:9981/stream/channelid/1312494701?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/5nrSZd8.png" tvg-id="97f7201ff6c894d880b2211a0d6724f7" group-title="SCTV" tvg-chno="24",SCTV12 HD
-http://192.167.2.32:9981/stream/channelid/522254231?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/PEz2Ieq.png" tvg-id="dcf8fc5edb53fcbab9538679aba56dee" group-title="SCTV" tvg-chno="25",SCTV13 HD
-http://192.167.2.32:9981/stream/channelid/1593637084?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/1yNMyEh.png" tvg-id="573c4932a7f05088748c163b17fba158" group-title="SCTV" tvg-chno="26",SCTV14 HD
-http://192.167.2.32:9981/stream/channelid/843660375?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/EPwjrlB.png" tvg-id="bf75f634b8e6b55243f0d2df2cdcf6bb" group-title="SCTV" tvg-chno="27",SCTV15 HD
-http://192.167.2.32:9981/stream/channelid/888567231?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/b4ZROQG.png" tvg-id="596e9416468555f1bb584d88cb4f23e4" group-title="SCTV" tvg-chno="28",SCTV16 HD
-http://192.167.2.32:9981/stream/channelid/378826329?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/Ghjy4HY.png" tvg-id="fd02379c81d5e14426b6fbe5e8290852" group-title="SCTV" tvg-chno="29",SCTV17 HD
-http://192.167.2.32:9981/stream/channelid/473367293?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/k2Eg4T4.png" tvg-id="1fd2e40b850acbd0b5ebda4dd47376f1" group-title="SCTV" tvg-chno="30",SCTV18 HD
-http://192.167.2.32:9981/stream/channelid/199545375?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/s4vfvNb.png" tvg-id="056c4fdba1fd651cbede54b60d72e65d" group-title="SCTV" tvg-chno="31",SCTV19 HD
-http://192.167.2.32:9981/stream/channelid/1531931653?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/zwfqboB.png" tvg-id="e49f81fa6f773673e0aa2910de896314" group-title="SCTV" tvg-chno="32",SCTV20 HD
-http://192.167.2.32:9981/stream/channelid/2055315428?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/aHKybQW.png" group-title="SCTV" tvg-chno="33",SCTV21 HD
-http://192.167.2.32:9981/stream/channelid/1120669444?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/O0HdUpB.png" group-title="SCTV" tvg-chno="34",SCTV22 HD
-http://192.167.2.32:9981/stream/channelid/695948113?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/VzZYa4n.png" group-title="SCTV" tvg-chno="35",SCTV HD Phim Tổng Hợp
-http://192.167.2.32:9981/stream/channelid/2001576868?profile=pass
-
-#EXTINF:-1  group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png", Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1  group-title="SCTV" tvg-logo="https://i.imgur.com/g0X8u8w.png", WWE
-https://7pal.short.gy/wwenw
-
-#EXTINF:-1 logo="https://i.imgur.com/gvPtTR2.png" group-title="SCTV" tvg-chno="248",THVL1 _ TH Vĩnh Long
-http://192.167.2.32:9981/stream/channelid/2142829382?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/wYadDFn.png" group-title="SCTV" tvg-chno="249",THVL2 _ TH Vĩnh Long
-http://192.167.2.32:9981/stream/channelid/1929094362?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/B8S0dyG.png" group-title="SCTV" tvg-chno="250",THVL3 _ TH Vĩnh Long
-http://192.167.2.32:9981/stream/channelid/607382485?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/xYalJzh.png" group-title="SCTV" tvg-chno="251",THVL4 _ TH Vĩnh Long
-http://192.167.2.32:9981/stream/channelid/902271207?profile=pass
-
-
 #-------------------VTV-------------------#
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
 udp://@225.1.2.249:30120
 
@@ -77,7 +17,7 @@ udp://@225.1.2.247:30120
 udp://@225.1.2.20:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 HD
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ HD
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV6 Cần Thơ HD
 udp://@225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD
 udp://@225.1.2.96:30120
@@ -97,6 +37,65 @@ udp://@225.1.2.169:30120
 #EXTINF:-1 tvg-id="qpvnhd" group-title="VTV" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
 udp://@225.1.2.217:30120
 
+
+#-------------------SCTV-------------------#
+#EXTINF:-1 logo="https://i.imgur.com/imhFxSG.png" group-title="SCTV" tvg-chno="15",SCTV1 HD
+http://192.167.2.32:9981/stream/channelid/162228657?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/UpBZOaH.png" group-title="SCTV" tvg-chno="16",SCTV2 HD
+http://192.167.2.32:9981/stream/channelid/1031576454?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/wZrGAtH.png" group-title="SCTV" tvg-chno="17",SCTV3 HD
+http://192.167.2.32:9981/stream/channelid/37682349?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/ntSnAMJ.png" group-title="SCTV" tvg-chno="18",SCTV4 HD
+http://192.167.2.32:9981/stream/channelid/1809475141?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/pSIvTkZ.png" group-title="SCTV" tvg-chno="19",SCTV6 HD
+http://192.167.2.32:9981/stream/channelid/1438786274?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/EdjXUUb.png" group-title="SCTV" tvg-chno="20",SCTV7 HD
+http://192.167.2.32:9981/stream/channelid/813205181?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/NULoCoA.png" group-title="SCTV" tvg-chno="21",SCTV8 HD
+http://192.167.2.32:9981/stream/channelid/939900051?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/6dvyvea.png" group-title="SCTV" tvg-chno="22",SCTV9 HD
+http://192.167.2.32:9981/stream/channelid/1789680081?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/AP2o4bW.png" group-title="SCTV" tvg-chno="23",SCTV11 HD
+http://192.167.2.32:9981/stream/channelid/1312494701?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/5nrSZd8.png" group-title="SCTV" tvg-chno="24",SCTV12 HD
+http://192.167.2.32:9981/stream/channelid/522254231?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/PEz2Ieq.png" group-title="SCTV" tvg-chno="25",SCTV13 HD
+http://192.167.2.32:9981/stream/channelid/1593637084?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/1yNMyEh.png" group-title="SCTV" tvg-chno="26",SCTV14 HD
+http://192.167.2.32:9981/stream/channelid/843660375?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/EPwjrlB.png" group-title="SCTV" tvg-chno="27",SCTV15 HD
+http://192.167.2.32:9981/stream/channelid/888567231?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/b4ZROQG.png" group-title="SCTV" tvg-chno="28",SCTV16 HD
+http://192.167.2.32:9981/stream/channelid/378826329?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Ghjy4HY.png" group-title="SCTV" tvg-chno="29",SCTV17 HD
+http://192.167.2.32:9981/stream/channelid/473367293?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/k2Eg4T4.png" group-title="SCTV" tvg-chno="30",SCTV18 HD
+http://192.167.2.32:9981/stream/channelid/199545375?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/s4vfvNb.png" group-title="SCTV" tvg-chno="31",SCTV19 HD
+http://192.167.2.32:9981/stream/channelid/1531931653?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/zwfqboB.png" group-title="SCTV" tvg-chno="32",SCTV20 HD
+http://192.167.2.32:9981/stream/channelid/2055315428?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/aHKybQW.png" group-title="SCTV" tvg-chno="33",SCTV21 HD
+http://192.167.2.32:9981/stream/channelid/1120669444?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/O0HdUpB.png" group-title="SCTV" tvg-chno="34",SCTV22 HD
+http://192.167.2.32:9981/stream/channelid/695948113?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/VzZYa4n.png" group-title="SCTV" tvg-chno="35",SCTV HD Phim Tổng Hợp
+http://192.167.2.32:9981/stream/channelid/2001576868?profile=pass
+
+#EXTINF:-1  group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png", Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1  group-title="SCTV" tvg-logo="https://i.imgur.com/g0X8u8w.png", WWE
+https://7pal.short.gy/wwenw
+
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD
+udp://@225.1.3.7:30120
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD
+udp://@225.1.3.19:30120
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="SCTV" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD
+udp://@225.1.3.16:30120
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="SCTV" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD
+udp://@225.1.3.20:30120
 
 #-------------------HTV/HTVC-------------------#
 #EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
@@ -125,19 +124,12 @@ udp://@225.1.1.171:30120
 udp://@225.1.1.186:30120
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC Plus HD
 udp://@225.1.1.181:30120
-#EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Key
 udp://@225.1.1.177:30120
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel
 udp://@225.1.3.13:30120
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD
-udp://@225.1.3.7:30120
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD
-udp://@225.1.3.19:30120
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD
-udp://@225.1.3.16:30120
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD
-udp://@225.1.3.20:30120
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pSIvTkZ.png" group-title="HTV/HTVC",SCTV6 HD
 udp://@225.1.4.211:30120
@@ -147,11 +139,11 @@ udp://@225.1.4.211:30120
 
 
 #-------------------------VTVcab---------------------------#
-#EXTINF:-1 logo="https://i.imgur.com/moYwxwf.png" tvg-id="382348b1b51f0b88b0628b97b845105a" group-title="VTVCab" tvg-chno="60",ON Sports
+#EXTINF:-1 logo="https://i.imgur.com/moYwxwf.png" tvg-id="382348b1b51f0b88b0628b97b845105a" group-title="VTVCab" tvg-chno="60",ON Sports HD
 http://192.167.2.32:9981/stream/channelid/826811192?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/cFs8OVb.png" tvg-id="4db82d28ea787e2298c2a88b48f3e575" group-title="VTVCab" tvg-chno="61",ON Sports+
 http://192.167.2.32:9981/stream/channelid/674084941?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/WAxiIfP.png" tvg-id="558e1d9180ba7589c2c9a5fdcf768c6d" group-title="VTVCab" tvg-chno="62",ON Football
+#EXTINF:-1 logo="https://i.imgur.com/WAxiIfP.png" tvg-id="558e1d9180ba7589c2c9a5fdcf768c6d" group-title="VTVCab" tvg-chno="62",ON Football HD
 http://192.167.2.32:9981/stream/channelid/287149653?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/wpRXpJg.png" tvg-id="1a60e07a3edbee2e68006d1cde7f2a33" group-title="VTVCab" tvg-chno="63",ON Sports News
 http://192.167.2.32:9981/stream/channelid/2061525018?profile=pass
